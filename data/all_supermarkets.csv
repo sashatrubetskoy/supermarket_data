@@ -30,7 +30,7 @@ A & P Food Stores,23,"720 W Woodrow Wilson Ave Jackson,",MS,39213,(601) 352-7515
 A & P Food Stores,24,"221 E Main St Battleboro,",NC,27809,(520) 514-9567,36.0487537,-77.7487213,"Battleboro, Rocky Mount, NC, USA",APPROXIMATE,Other,000000
 A & P Food Stores,25,"1322 Linwood Rd Gastonia,",NC,28052,(704) 868-2991,35.246187,-81.2116259,"1322 Linwood Rd, Gastonia, NC 28052, USA",ROOFTOP,Other,000000
 A & P Food Stores,26,"54 Lock St Nashua,",NH,03064,(603) 595-4908,42.7668904,-71.46200859999999,"54 Lock St, Nashua, NH 03064, USA",ROOFTOP,Other,000000
-A & P Food Stores,27,"163 Avenue A # 169 Bayonne,",NJ,07002,(201) 823-3262,,,,,Other,000000
+A & P Food Stores,27,"163 Avenue A # 169 Bayonne,",NJ,07002,(201) 823-3262,40.6539546,-74.1381495,,,Other,000000
 A & P Food Stores,28,"19 Belleville Ave Bloomfield,",NJ,07003,(973) 429-8754,40.7976587,-74.1798799,"19 Belleville Ave, Bloomfield, NJ 07003, USA",ROOFTOP,Other,000000
 A & P Food Stores,29,"550 Myrtle Ave Boonton,",NJ,07005,(973) 394-9570,40.9086562,-74.39695739999999,"550 Myrtle Ave, Boonton, NJ 07005, USA",ROOFTOP,Other,000000
 A & P Food Stores,30,"425 Anderson Ave Fairview,",NJ,07022,(201) 941-2800,40.8209576,-73.9920935,"425 Anderson Ave, Fairview, NJ 07022, USA",ROOFTOP,Other,000000
@@ -2241,7 +2241,7 @@ Associated Food Stores,23,"529 S Broadway Yonkers,",NY,10705,(914) 965-4467,40.9
 Associated Food Stores,24,"167 Tulip Ave Floral Park,",NY,11001,(516) 354-1831,40.7242255,-73.7025939,"167 Tulip Ave, Floral Park, NY 11001, USA",ROOFTOP,Other,000000
 Associated Food Stores,25,"24111 Linden Blvd Elmont,",NY,11003,(516) 285-5694,40.6893266,-73.7207979,"24111 Linden Blvd, Elmont, NY 11003, USA",ROOFTOP,Other,000000
 Associated Food Stores,26,"181 Middle Neck Rd Great Neck,",NY,11021,(516) 482-1444,40.7940128,-73.7331607,"181 Middle Neck Rd, Great Neck, NY 11021, USA",ROOFTOP,Other,000000
-Associated Food Stores,27,"20 Mott Ave # 50 Inwood,",NY,11096,(718) 868-1326,,,,,Other,000000
+Associated Food Stores,27,"20 Mott Ave # 50 Inwood,",NY,11096,(718) 868-1326,40.618552,-73.738017,,,Other,000000
 Associated Food Stores,28,"1007 41st Ave Long Island City,",NY,11101,(718) 784-1427,40.7556076,-73.9451055,"1007 41st Ave, Long Island City, NY 11101, USA",ROOFTOP,Other,000000
 Associated Food Stores,29,"3715 31st Ave Astoria,",NY,11103,(718) 728-0852,40.7621175,-73.91788710000002,"37-15 31st Ave, Long Island City, NY 11103, USA",ROOFTOP,Other,000000
 Associated Food Stores,30,"2016 21st Ave Astoria,",NY,11105,(718) 721-4982,40.7823856,-73.9151266,"2016 21st Ave, Long Island City, NY 11105, USA",ROOFTOP,Other,000000
@@ -2283,7 +2283,7 @@ Associated Food Stores,65,"653 E Park Ave Long Beach,",NY,11561,(516) 431-5515,4
 Associated Food Stores,66,"160 N Long Beach Rd Rockville Centre,",NY,11570,(516) 764-7279,40.6596407,-73.63030289999999,"160 N Long Beach Rd, Rockville Centre, NY 11570, USA",ROOFTOP,Other,000000
 Associated Food Stores,67,"214 Rockaway Ave Valley Stream,",NY,11580,(866) 721-5582,40.6613496,-73.6998122,"214 Rockaway Ave, Valley Stream, NY 11580, USA",ROOFTOP,Other,000000
 Associated Food Stores,68,"245 Beach 20th St Far Rockaway,",NY,11691,(718) 327-9820,40.5964905,-73.7550485,"245 Beach 20th St, Far Rockaway, NY 11691, USA",ROOFTOP,Other,000000
-Associated Food Stores,69,"20 Scott Gadell Pl # 50 Far Rockaway,",NY,11691,(718) 868-1326,,,,,Other,000000
+Associated Food Stores,69,"20 Scott Gadell Pl # 50 Far Rockaway,",NY,11691,(718) 868-1326,0.0,0.0,,,Other,000000
 Associated Food Stores,70,"2050 Mott Ave Far Rockaway,",NY,11691,(718) 868-1326,40.6045527,-73.7531978,"2050 Mott Ave, Far Rockaway, NY 11691, USA",ROOFTOP,Other,000000
 Associated Food Stores,71,"615 Yakima Valley Hwy Sunnyside,",WA,98944,(509) 837-6331,46.3282663,-120.0117936,"615 Yakima Valley Hwy, Sunnyside, WA 98944, USA",ROOFTOP,Other,000000
 Atkinsons Market,1,"757 N Main St Bellevue,",ID,83313,(208) 788-0241,43.4738841,-114.2665056,"757 N Main St, Bellevue, ID 83313, USA",ROOFTOP,Other,000000
@@ -2494,7 +2494,7 @@ Bi-Lo,38,"35 Bass Ln Burnsville,",NC,28714,(828) 678-9376,35.9647502,-82.3676811
 Bi-Lo,39,"651 W Mills St Columbus,",NC,28722,(828) 894-5145,35.2430622,-82.2064515,"651 W Mills St, Columbus, NC 28722, USA",ROOFTOP,Other,000000
 Bi-Lo,40,"500 N Main St Marion,",NC,28752,(618) 351-0463,35.6895313,-82.0144858,"500 N Main St, Marion, NC 28752, USA",ROOFTOP,Other,000000
 Bi-Lo,41,"120 Henderson Crossing Plz Hendersonville,",NC,28792,(828) 697-5307,35.3313891,-82.44665189999999,"120 Henderson Crossing Plaza, Hendersonville, NC 28792, USA",ROOFTOP,Other,000000
-Bi-Lo,42,"231 E Market St # 251 Blairsville,",PA,15717,(724) 459-5801,,,,,Other,000000
+Bi-Lo,42,"231 E Market St # 251 Blairsville,",PA,15717,(724) 459-5801,0.0,0.0,,,Other,000000
 Bi-Lo,43,"Route 11 Hillsdale,",PA,15746,(315) 625-4444,40.9680875,-76.6395271,"US-11, Pennsylvania, USA",GEOMETRIC_CENTER,Other,000000
 Bi-Lo,44,"40 S White St Brookville,",PA,15825,(814) 849-7548,41.1595276,-79.0830409,"40 S White St, Brookville, PA 15825, USA",ROOFTOP,Other,000000
 Bi-Lo,45,"40 White St Brookville,",PA,15825,(814) 849-7548,41.1595276,-79.0830409,"40 S White St, Brookville, PA 15825, USA",ROOFTOP,Other,000000
@@ -2547,7 +2547,7 @@ Bi-Lo,91,"2700 Gentry Memorial Hwy Pickens,",SC,29671,(864) 878-9494,34.8736058,
 Bi-Lo,92,"191 Bilo Pl Seneca,",SC,29678,(864) 888-4405,34.6905188,-82.9836717,"191 Bilo Pl, Seneca, SC 29678, USA",ROOFTOP,Other,000000
 Bi-Lo,93,"699 Fairview Rd Simpsonville,",SC,29680,(864) 967-2660,34.7063319,-82.255359,"699 Fairview Rd, Simpsonville, SC 29680, USA",ROOFTOP,Other,000000
 Bi-Lo,94,"2607 Woodruff Rd Simpsonville,",SC,29681,(864) 288-0136,34.8071149,-82.2292113,"2607 Woodruff Rd, Simpsonville, SC 29681, USA",ROOFTOP,Other,000000
-Bi-Lo,95,"315 South St # 315 Simpsonville,",SC,29681,(864) 967-2602,,,,,Other,000000
+Bi-Lo,95,"315 South St # 315 Simpsonville,",SC,29681,(864) 967-2602,0.0,0.0,,,Other,000000
 Bi-Lo,96,"3039 Wade Hampton Blvd Taylors,",SC,29687,(864) 322-7315,34.9091858,-82.33018299999999,"3039 Wade Hampton Blvd, Taylors, SC 29687, USA",ROOFTOP,Other,000000
 Bi-Lo,97,"40 Ja Cochran Bypass Chester,",SC,29706,(803) 581-6310,34.7097832,-81.21896129999999,"J A Cochran Bypass, Chester, SC 29706, USA",GEOMETRIC_CENTER,Other,000000
 Bi-Lo,98,"1260 Highway 9 Byp W Lancaster,",SC,29720,(641) 843-3854,34.7339695,-80.7991042,"1260 Hwy 9 Bypass W, Lancaster, SC 29720, USA",ROOFTOP,Other,000000
@@ -2985,7 +2985,7 @@ Brookshire Brothers,77,"1477 N Beaulah St Hawkins,",TX,75765,(903) 769-5959,32.6
 Brookshire Brothers,78,"6737 S Fm 14 Hawkins,",TX,75765,(903) 769-5959,32.6352801,-95.2175429,"6737 S FM 14, Hawkins, TX 75765, USA",RANGE_INTERPOLATED,Other,000000
 Brookshire Brothers,79,"Hwy 69 S Lindale,",TX,75771,(903) 882-3167,32.5260752,-95.41174939999999,"U.S. Hwy 69 N, Lindale, TX, USA",GEOMETRIC_CENTER,Other,000000
 Brookshire Brothers,80,"1224 N Pacific St Mineola,",TX,75773,(903) 569-5504,32.676035,-95.48351579999999,"1224 N Pacific St, Mineola, TX 75773, USA",ROOFTOP,Other,000000
-Brookshire Brothers,81,"502 E Goode St # C Quitman,",TX,75783,(903) 763-1420,,,,,Other,000000
+Brookshire Brothers,81,"502 E Goode St # C Quitman,",TX,75783,(903) 763-1420,0.0,0.0,,,Other,000000
 Brookshire Brothers,82,"502 E Goode St Quitman,",TX,75783,(903) 763-1420,32.7950627,-95.44603169999999,"502 E Goode St, Quitman, TX 75783, USA",ROOFTOP,Other,000000
 Brookshire Brothers,83,"506 W Duval St Troup,",TX,75789,(903) 842-3040,32.1436808,-95.1263503,"506 W Duval St, Troup, TX 75789, USA",ROOFTOP,Other,000000
 Brookshire Brothers,84,"706 W Main St Van,",TX,75790,(903) 963-8334,32.525559,-95.6465345,"706 W Main St, Van, TX 75790, USA",ROOFTOP,Other,000000
@@ -3207,7 +3207,7 @@ C Town,105,"1975 W Mound St Columbus,",OH,43223,(614) 276-7176,39.9415403,-83.05
 C Town,106,"720 N 4th St Allentown,",PA,18102,(484) 664-7060,40.614024,-75.4705649,"720 N 4th St, Allentown, PA 18102, USA",ROOFTOP,Other,000000
 Cal Maine Foods,1,"199 Joy Dr Searcy,",AR,72143,(501) 726-0019,35.2490333,-91.7715893,"199 Joy Dr, Searcy, AR 72143, USA",RANGE_INTERPOLATED,Other,000000
 Cal Maine Foods,2,"199 Cal Maine Ln Searcy,",AR,72143,(501) 726-1349,35.2449263,-91.7334206,"500 S Oak St, Searcy, AR 72143, USA",ROOFTOP,Other,000000
-Cal Maine Foods,3,"197 Smith Farms Ln Searcy,",AR,72143,(501) 726-4209,,,,,Other,000000
+Cal Maine Foods,3,"197 Smith Farms Ln Searcy,",AR,72143,(501) 726-4209,0.0,0.0,,,Other,000000
 Cal Maine Foods,4,"PO Box 362 Huntsville,",AR,72740,(870) 438-5233,36.086187,-93.74130319999999,"Huntsville, AR 72740, USA",APPROXIMATE,Other,000000
 Cal Maine Foods,5,"Shady Dale,",GA,31085,(706) 468-8073,33.4006823,-83.5901713,"Shady Dale, GA 31085, USA",APPROXIMATE,Other,000000
 Cal Maine Foods,6,"550 Port Royal Rd S Guthrie,",KY,42234,(620) 593-4188,36.6321349,-87.1883525,"550 Port Royal Rd, Clarksville, TN 37040, USA",RANGE_INTERPOLATED,Other,000000
@@ -3302,7 +3302,7 @@ Cash Wise Foods,2,"1220 Westridge Rd New Ulm,",MN,56073,(507) 354-2511,44.328138
 Cash Wise Foods,3,"101 Willmar Ave Sw Willmar,",MN,56201,(320) 214-6975,45.1098528,-95.04364249999999,"101 Willmar Ave SW, Willmar, MN 56201, USA",ROOFTOP,Other,000000
 Cash Wise Foods,4,"1300 3rd St Se Willmar,",MN,56201,(320) 235-2485,45.1130694,-95.0399465,"1300 3rd St SE, Willmar, MN 56201, USA",RANGE_INTERPOLATED,Other,000000
 Cash Wise Foods,5,"1305 1st St S Willmar,",MN,56201,(320) 235-8797,45.10899879999999,-95.04142929999999,"1305 1st St S, Willmar, MN 56201, USA",ROOFTOP,Other,000000
-Cash Wise Foods,6,"301 Highway 23 # 4 Spicer,",MN,56288,(320) 796-2103,,,,,Other,000000
+Cash Wise Foods,6,"301 Highway 23 # 4 Spicer,",MN,56288,(320) 796-2103,0.0,0.0,,,Other,000000
 Cash Wise Foods,7,"Saint Cloud,",MN,56301,(320) 259-1140,45.4651346,-94.2515552,"St Cloud, MN 56301, USA",APPROXIMATE,Other,000000
 Cash Wise Foods,8,"113 Waite Ave S Waite Park,",MN,56387,(320) 259-1308,45.5510805,-94.2153914,"113 Waite Ave S, St Cloud, MN 56301, USA",ROOFTOP,Other,000000
 Cash Wise Foods,9,"3300 Highway 10 E Moorhead,",MN,56560,(352) 344-8990,46.8782205,-96.728008,"3300 US-10, Moorhead, MN 56560, USA",ROOFTOP,Other,000000
@@ -3548,7 +3548,7 @@ Costco,124,"2700 Park Ave Tustin,",CA,92782,(714) 338-1933,33.6999885,-117.82290
 Costco,125,"2655 El Camino Real Tustin,",CA,92782,(714) 838-5513,33.7285161,-117.7958127,"2655 El Camino Real, Tustin, CA 92782, USA",ROOFTOP,Big,000000
 Costco,126,"147 S Magnolia Ave Anaheim,",CA,92804,(714) 761-3826,33.8306289,-117.9764996,"147 S Magnolia Ave, Anaheim, CA 92804, USA",ROOFTOP,Big,000000
 Costco,127,"900 S Harbor Blvd Fullerton,",CA,92832,(714) 738-7521,33.8625975,-117.9238704,"900 S Harbor Blvd, Fullerton, CA 92832, USA",ROOFTOP,Big,000000
-Costco,128,"11000 Garden Grove Blvd # 201 Garden Grove,",CA,92843,(714) 534-7080,,,,,Big,000000
+Costco,128,"11000 Garden Grove Blvd # 201 Garden Grove,",CA,92843,(714) 534-7080,0.0,0.0,,,Big,000000
 Costco,129,"22633 Savi Ranch Pkwy Yorba Linda,",CA,92887,(714) 637-0360,33.8765614,-117.7430355,"22633 Savi Ranch Pkwy, Yorba Linda, CA 92887, USA",ROOFTOP,Big,000000
 Costco,130,"2001 E Ventura Blvd Oxnard,",CA,93036,(805) 983-2249,34.2251219,-119.1482291,"2001 Ventura Blvd, Oxnard, CA 93036, USA",ROOFTOP,Big,000000
 Costco,131,"1101 Pepper Tree Ln Brandeis,",CA,93064,(805) 578-3381,34.2581209,-118.7099149,"1101 Pepper Tree Ln, Simi Valley, CA 93065, USA",ROOFTOP,Big,000000
@@ -4078,7 +4078,7 @@ Costco,654,"66 N Division St Spokane,",WA,99202,(509) 466-3315,47.6575418,-117.4
 Costco,655,"7619 N Division St Spokane,",WA,99208,(509) 466-3315,47.7274075,-117.4131011,"7619 N Division St, Spokane, WA 99208, USA",ROOFTOP,Big,000000
 Costco,656,"5601 E Sprague Ave Spokane,",WA,99212,(509) 842-0000,47.6584359,-117.332215,"5601 E Sprague Ave, Spokane, WA 99212, USA",ROOFTOP,Big,000000
 Costco,657,"PO Box 3405 Spokane,",WA,99220,(509) 468-5242,47.6599999,-117.39,"PO Box 3405, Spokane, WA 99220, USA",GEOMETRIC_CENTER,Big,000000
-Costco,658,"8505 W Gage Blvd # A Kennewick,",WA,99336,(509) 737-8867,,,,,Big,000000
+Costco,658,"8505 W Gage Blvd # A Kennewick,",WA,99336,(509) 737-8867,0.0,0.0,,,Big,000000
 Costco,659,"8505 W Gage Blvd Kennewick,",WA,99336,(509) 737-8867,46.225917,-119.2356064,"8505 W Gage Blvd, Kennewick, WA 99336, USA",GEOMETRIC_CENTER,Big,000000
 Costco,660,"301 5th St Clarkston,",WA,99403,(509) 758-1800,46.4232327,-117.0430898,"301 5th St, Clarkston, WA 99403, USA",ROOFTOP,Big,000000
 Costco,661,"N164w201 Juniper St Jackson,",WI,53037,(610) 683-8830,43.3169485,-88.1592842,"Juniper St, Jackson, WI 53037, USA",GEOMETRIC_CENTER,Big,000000
@@ -5298,7 +5298,7 @@ Food Emporium,25,"345 Downing Dr Yorktown Heights,",NY,10598,(914) 243-5207,41.2
 Food Emporium,26,"100 Triangle Shopping Ctr Yorktown Heights,",NY,10598,(914) 962-3432,41.2776881,-73.77958389999999,"100 Triangle Center, Yorktown Heights, NY 10598, USA",ROOFTOP,Other,000000
 Food Emporium,27,"325 Mamaroneck Ave White Plains,",NY,10605,(914) 946-8266,41.02532009999999,-73.7631385,"325 Mamaroneck Ave, White Plains, NY 10605, USA",ROOFTOP,Other,000000
 Food Emporium,28,"777 White Plains Rd Tuckahoe,",NY,10707,(914) 472-7550,40.9746383,-73.80387569999999,"777 White Plains Rd, Scarsdale, NY 10583, USA",ROOFTOP,Other,000000
-Food Emporium,29,"12 Cedar Ln # 14 Bronxville,",NY,10708,(914) 793-0618,,,,,Other,000000
+Food Emporium,29,"12 Cedar Ln # 14 Bronxville,",NY,10708,(914) 793-0618,0.0,0.0,,,Other,000000
 Food Emporium,30,"23 Quaker Ridge Rd New Rochelle,",NY,10804,(914) 636-1368,40.9472379,-73.7940344,"23 Quaker Ridge Rd, New Rochelle, NY 10804, USA",ROOFTOP,Other,000000
 Food Emporium,31,"510 Middle Neck Rd Great Neck,",NY,11023,(516) 482-4212,40.8002981,-73.7346384,"510 Middle Neck Rd, Great Neck, NY 11023, USA",ROOFTOP,Other,000000
 Food Emporium,32,"13619 Mukilteo Speedway Ste A Lynnwood,",WA,98087,(425) 745-8545,47.8742273,-122.2743574,"13619 Mukilteo Speedway Ste A, Lynnwood, WA 98037, USA",ROOFTOP,Other,000000
@@ -5449,7 +5449,7 @@ Food Lion,127,"122 Cranbrook Rd Cockeysville,",MD,21030,(410) 666-8760,39.465610
 Food Lion,128,"3261 Solomons Island Rd Edgewater,",MD,21037,(410) 956-6498,38.9281255,-76.56553009999999,"3261 Solomons Island Rd, Edgewater, MD 21037, USA",ROOFTOP,Big,000000
 Food Lion,129,"2250 Hanson Rd Edgewood,",MD,21040,(410) 671-6500,39.428412,-76.29832259999999,"2250 Hanson Rd, Edgewood, MD 21040, USA",ROOFTOP,Big,000000
 Food Lion,130,"5896 Robert Oliver Pl Columbia,",MD,21045,(410) 715-1260,39.2104538,-76.845036,"5896 Robert Oliver Pl, Columbia, MD 21045, USA",ROOFTOP,Big,000000
-Food Lion,131,"2299 Four Seasons Dr # 4 Gambrills,",MD,21054,(410) 695-0576,,,,,Big,000000
+Food Lion,131,"2299 Four Seasons Dr # 4 Gambrills,",MD,21054,(410) 695-0576,0.0,0.0,,,Big,000000
 Food Lion,132,"7069 Baltimore Annapolis Blvd Glen Burnie,",MD,21061,(410) 684-2068,39.199779,-76.6396467,"7069 Baltimore Annapolis Blvd, Glen Burnie, MD 21061, USA",ROOFTOP,Big,000000
 Food Lion,133,"121 Crain Hwy N Glen Burnie,",MD,21061,(410) 863-4957,39.1649093,-76.6233105,"121 Crain Hwy N, Glen Burnie, MD 21061, USA",ROOFTOP,Big,000000
 Food Lion,134,"6551 Waterloo Rd Elkridge,",MD,21075,(410) 799-3760,39.1907619,-76.79433039999999,"6551 Waterloo Rd, Elkridge, MD 21075, USA",ROOFTOP,Big,000000
@@ -5547,7 +5547,7 @@ Food Lion,225,"921 S Main St Graham,",NC,27253,(336) 228-0583,36.0518337,-79.399
 Food Lion,226,"Ncentennial Lexington High Point,",NC,27260,(336) 886-7872,35.9774079,-80.001583,"E Lexington Ave & N Centennial St, High Point, NC 27262, USA",GEOMETRIC_CENTER,Big,000000
 Food Lion,227,"2200 Westchester Dr High Point,",NC,27262,(336) 885-5896,35.9395228,-80.0359399,"2200 Westchester Dr, High Point, NC 27262, USA",ROOFTOP,Big,000000
 Food Lion,228,"10102f Smain St High Point,",NC,27263,(336) 431-2779,35.9007193,-79.9498342,"10102 S Main St, Archdale, NC 27263, USA",ROOFTOP,Big,000000
-Food Lion,229,"110 E Fairfield Rd # 101 High Point,",NC,27263,(336) 434-6525,,,,,Big,000000
+Food Lion,229,"110 E Fairfield Rd # 101 High Point,",NC,27263,(336) 434-6525,0.0,0.0,,,Big,000000
 Food Lion,230,"3935 Brian Jordan Pl High Point,",NC,27265,(336) 812-9963,36.0333788,-79.96141159999999,"3935 Brian Jordan Pl, High Point, NC 27265, USA",ROOFTOP,Big,000000
 Food Lion,231,"2705 N Main St Suite 103 High Point,",NC,27265,(336) 869-5800,35.9933102,-80.03257909999999,"2705 N Main St #103, High Point, NC 27265, USA",ROOFTOP,Big,000000
 Food Lion,232,"2531 Eastchester Dr High Point,",NC,27265,(336) 886-9697,36.0301616,-79.9702554,"2531 Eastchester Dr, High Point, NC 27265, USA",ROOFTOP,Big,000000
@@ -7147,7 +7147,7 @@ Giant Eagle,80,"6600 Biddulph Rd Cleveland,",OH,44144,(305) 971-2764,41.4316241,
 Giant Eagle,81,"30275 Detroit Rd Westlake,",OH,44145,(440) 835-4880,41.4617772,-81.95569770000002,"30275 Detroit Rd, Westlake, OH 44145, USA",ROOFTOP,Big,000000
 Giant Eagle,82,"5300 Richmond Rd Bedford,",OH,44146,(308) 632-2002,41.417009,-81.5009029,"5300 Richmond Rd, Bedford Heights, OH 44146, USA",ROOFTOP,Big,000000
 Giant Eagle,83,"900 Northfield Rd Bedford,",OH,44146,(440) 439-1800,41.3894278,-81.52613339999999,"900 Northfield Rd, Bedford, OH 44146, USA",ROOFTOP,Big,000000
-Giant Eagle,84,"90 Northfield Rd # O Bedford,",OH,44146,(440) 735-0954,,,,,Big,000000
+Giant Eagle,84,"90 Northfield Rd # O Bedford,",OH,44146,(440) 735-0954,0.0,0.0,,,Big,000000
 Giant Eagle,85,"41 5th St Nw Barberton,",OH,44203,(330) 745-9200,41.0118247,-81.6115595,"41 5th St NW, Barberton, OH 44203, USA",RANGE_INTERPOLATED,Big,000000
 Giant Eagle,86,"3440 Center Rd Brunswick,",OH,44212,(330) 225-1159,41.23696220000001,-81.8099678,"3440 Center Rd, Brunswick, OH 44212, USA",ROOFTOP,Big,000000
 Giant Eagle,87,"3446 Center Rd Brunswick,",OH,44212,(330) 225-9199,41.237784,-81.81001049999999,"3446 Center Rd, Brunswick, OH 44212, USA",ROOFTOP,Big,000000
@@ -7172,7 +7172,7 @@ Giant Eagle,105,"11031 State Route 212 Ne Bolivar,",OH,44612,(330) 874-3511,40.6
 Giant Eagle,106,"907 W Maple St Hartville,",OH,44632,(330) 877-2273,40.970386,-81.3469575,"907 W Maple St, Hartville, OH 44632, USA",ROOFTOP,Big,000000
 Giant Eagle,107,"2032 Lincoln Way E Massillon,",OH,44646,(330) 833-2733,40.8011993,-81.4953431,"2032 Lincoln Way E, Massillon, OH 44646, USA",ROOFTOP,Big,000000
 Giant Eagle,108,"2873 Carie Hill Cir Nw Massillon,",OH,44646,(330) 833-5330,40.8265399,-81.49847179999999,"2873 Carie Hill Cir NW, Massillon, OH 44646, USA",ROOFTOP,Big,000000
-Giant Eagle,109,"1955 E Maple St # St1 North Canton,",OH,44720,(330) 966-1739,,,,,Big,000000
+Giant Eagle,109,"1955 E Maple St # St1 North Canton,",OH,44720,(330) 966-1739,0.0,0.0,,,Big,000000
 Giant Eagle,110,"3113 Green Garden Rd Aliquippa,",PA,15001,(724) 378-9170,40.5980101,-80.3041549,"3113 Green Garden Rd, Aliquippa, PA 15001, USA",ROOFTOP,Big,000000
 Giant Eagle,111,"1600 W State St Baden,",PA,15005,(724) 869-8420,40.6579849,-80.23640080000001,"1600 W State St, Baden, PA 15005, USA",ROOFTOP,Big,000000
 Giant Eagle,112,"Northern Lights Shopping Ctr St Baden,",PA,15005,(907) 264-9633,40.6579932,-80.2363755,"1600 W State St, Baden, PA 15005, USA",ROOFTOP,Big,000000
@@ -7404,7 +7404,7 @@ Giant Food Store,4,"275 Pauline Dr York,",PA,17402,(717) 741-5332,39.9343864,-76
 Giant Food Store,5,"10 Newport Rd Leola,",PA,17540,(717) 656-8575,40.0861007,-76.1912339,"10 Newport Rd, Leola, PA 17540, USA",ROOFTOP,Other,000000
 Giant Food Store,6,"1008 Lititz Pike Lititz,",PA,17543,(717) 627-8961,40.1312682,-76.30782339999999,"1008 Lititz Pike, Lititz, PA 17543, USA",ROOFTOP,Other,000000
 Giant Food Store,7,"550 Centerville Rd Lancaster,",PA,17601,(717) 898-3011,40.05437879999999,-76.4003525,"550 Centerville Rd, Lancaster, PA 17601, USA",ROOFTOP,Other,000000
-Giant Food Store,8,"2918 Easton Ave # An Bethlehem,",PA,18017,(610) 866-3393,,,,,Other,000000
+Giant Food Store,8,"2918 Easton Ave # An Bethlehem,",PA,18017,(610) 866-3393,0.0,0.0,,,Other,000000
 Giant Food Store,9,"2918 Easton Ave Bethlehem,",PA,18017,(610) 866-3393,40.6477605,-75.33730059999999,"2918 Easton Ave, Bethlehem, PA 18017, USA",ROOFTOP,Other,000000
 Giant Food Store,10,"2100 W Union Blvd Bethlehem,",PA,18018,(610) 691-4304,40.6294172,-75.4182222,"2100 W Union Blvd, Bethlehem, PA 18018, USA",ROOFTOP,Other,000000
 Giant Food Store,11,"202 Chestnut St Coplay,",PA,18037,(610) 262-6314,40.6745066,-75.4940349,"202 Chestnut St, Coplay, PA 18037, USA",ROOFTOP,Other,000000
@@ -7552,7 +7552,7 @@ Hannaford,12,"144 N Main St Uxbridge,",MA,01569,(508) 278-2487,42.0816786,-71.63
 Hannaford,13,"201 Washington St Hudson,",MA,01749,(978) 562-6613,42.3805146,-71.56933579999999,"201 Washington St, Hudson, MA 01749, USA",ROOFTOP,Big,000000
 Hannaford,14,"193 Boston Post Rd W Marlborough,",MA,01752,(508) 480-9677,42.3406564,-71.5902043,"193 Boston Post Rd W, Marlborough, MA 01752, USA",ROOFTOP,Big,000000
 Hannaford,15,"7 Medway Rd Milford,",MA,01757,(508) 422-9300,42.1484372,-71.5028425,"7 Medway Rd, Milford, MA 01757, USA",ROOFTOP,Big,000000
-Hannaford,16,"62 Drum Hill Rd # 2 Chelmsford,",MA,01824,(978) 452-5255,,,,,Big,000000
+Hannaford,16,"62 Drum Hill Rd # 2 Chelmsford,",MA,01824,(978) 452-5255,0.0,0.0,,,Big,000000
 Hannaford,17,"66 Drum Hill Rd Chelmsford,",MA,01824,(978) 459-9304,42.6230811,-71.3613192,"66 Drum Hill Rd, Chelmsford, MA 01824, USA",ROOFTOP,Big,000000
 Hannaford,18,"301 Pleasant St Dracut,",MA,01826,(978) 452-5255,42.6644091,-71.3118269,"301 Pleasant St, Dracut, MA 01826, USA",ROOFTOP,Big,000000
 Hannaford,19,"199 Plain St Lowell,",MA,01852,(978) 441-6900,42.6224747,-71.31778690000002,"199 Plain St, Lowell, MA 01852, USA",ROOFTOP,Big,000000
@@ -7755,7 +7755,7 @@ Hannaford,215,"1099 North Ave Burlington,",VT,05408,(802) 862-7752,44.506501,-73
 Hannaford,216,"1127 North Ave Ste 11 Burlington,",VT,05408,(802) 862-7752,44.5063431,-73.2444414,"1127 North Ave #11, Burlington, VT 05408, USA",ROOFTOP,Big,000000
 Hannaford,217,"10 Sampsonville Rd Enosburg Falls,",VT,05450,(802) 933-6657,44.912899,-72.795862,"10 Sampsonville Rd, Enosburg Falls, VT 05450, USA",ROOFTOP,Big,000000
 Hannaford,218,"71 Jayview Dr Enosburg Falls,",VT,05450,(802) 933-6657,44.9122973,-72.7958312,"71 Jayview Dr, Enosburg Falls, VT 05450, USA",ROOFTOP,Big,000000
-Hannaford,219,"21 Essex Way # A Essex Junction,",VT,05452,(802) 878-0119,,,,,Big,000000
+Hannaford,219,"21 Essex Way # A Essex Junction,",VT,05452,(802) 878-0119,0.0,0.0,,,Big,000000
 Hannaford,220,"21 Essex Way Essex Junction,",VT,05452,(802) 878-0119,44.5069595,-73.0823971,"21 Essex Way, Essex Junction, VT 05452, USA",ROOFTOP,Big,000000
 Hannaford,221,"209 Route 7 S Milton,",VT,05468,(802) 893-1839,44.6690449,-73.11071299999999,"209 US-7, Milton, VT 05468, USA",ROOFTOP,Big,000000
 Hannaford,222,"Highgate Shopping Plz Saint Albans,",VT,05478,(802) 524-2467,44.840477,-73.08008910000001,"289 Swanton Rd, St Albans City, VT 05478, USA",ROOFTOP,Big,000000
@@ -8566,7 +8566,7 @@ Hy Vee,1,"3800 Lincoln Way Ames,",IA,50014,(515) 292-9337,42.0216985,-93.669771,
 Hy Vee,2,"2900 Devils Glen Rd Bettendorf,",IA,52722,(563) 332-7151,41.5536691,-90.48474560000001,"2900 Devils Glen Rd, Bettendorf, IA 52722, USA",ROOFTOP,Other,000000
 Hy Vee,3,"11105 W 71st Pl Shawnee,",KS,66203,(913) 962-2263,38.9982466,-94.7150826,"11105 71st Pl, Shawnee, KS 66203, USA",ROOFTOP,Other,000000
 Hy Vee,4,"7620 State Line Rd Prairie Village,",KS,66208,(913) 383-8313,38.989934,-94.6097437,"7620 State Line Rd, Prairie Village, MO 66208, USA",ROOFTOP,Other,000000
-Hy Vee,5,"12200 State Line Rd # 4 Leawood,",KS,66209,(913) 345-9364,,,,,Other,000000
+Hy Vee,5,"12200 State Line Rd # 4 Leawood,",KS,66209,(913) 345-9364,0.0,0.0,,,Other,000000
 Hy Vee,6,"13400 W 87th Street Pkwy Lenexa,",KS,66215,(913) 438-8006,38.9723233,-94.7412548,"13400 W 87th St, Lenexa, KS 66215, USA",ROOFTOP,Other,000000
 Hy Vee,7,"13550 W 63rd St Shawnee,",KS,66216,(913) 962-2369,39.0160615,-94.743438,"13550 W 63rd St, Shawnee, KS 66216, USA",ROOFTOP,Other,000000
 Hy Vee,8,"8900 W 135th St Overland Park,",KS,66221,(913) 685-3299,38.8854852,-94.6884785,"8900 W 135th St, Overland Park, KS 66221, USA",ROOFTOP,Other,000000
@@ -9391,7 +9391,7 @@ Koch Foods,10,"1620 Progress Pkwy Morristown,",TN,37813,(423) 318-7623,36.140316
 Kona Natural Foods,1,"Keauhou Shopping Ctr Hilo,",HI,96720,(808) 322-1800,19.7107879,-155.075881,"66 Kekuanaoa St, Hilo, HI 96720, USA",ROOFTOP,Other,000000
 Kona Natural Foods,2,"Crossroads Shopping Ctr Kona Hilo,",HI,96720,(808) 329-2296,19.6466681,-155.989838,"75-1027 Henry St, Kailua-Kona, HI 96740, USA",ROOFTOP,Other,000000
 Kona Natural Foods,3,"78 6831 Alii Dr Keauhou,",HI,96739,(808) 322-1800,19.5717098,-155.9623497,"78-6831 Alii Dr, Kailua-Kona, HI 96740, USA",ROOFTOP,Other,000000
-Kona Natural Foods,4,"78-6831 Alii Dr # C122b Kailua Kona,",HI,96740,(808) 322-1800,,,,,Other,000000
+Kona Natural Foods,4,"78-6831 Alii Dr # C122b Kailua Kona,",HI,96740,(808) 322-1800,0.0,0.0,,,Other,000000
 Kona Natural Foods,5,"75-1027 Henry St Ste 105 Kailua Kona,",HI,96740,(808) 329-2207,19.6468298,-155.989754,"75-1027 Henry St #105, Kailua-Kona, HI 96740, USA",ROOFTOP,Other,000000
 Krauszers,1,"350 Stepstone Hill Rd Guilford,",CT,06437,(203) 453-0295,41.3234662,-72.6888108,"350 Stepstone Hill Rd, Guilford, CT 06437, USA",ROOFTOP,Other,000000
 Krauszers,2,"5 Pond Point Ave Milford,",CT,06460,(203) 878-7931,41.22462489999999,-73.0308407,"5 Pond Point Ave, Milford, CT 06460, USA",ROOFTOP,Other,000000
@@ -9937,7 +9937,7 @@ Kroger,528,"2945 Scottsville Rd Bowling Green,",KY,42104,(630) 783-0122,36.94402
 Kroger,529,"2630 Frederica St Owensboro,",KY,42301,(623) 773-1109,37.7494388,-87.11481320000001,"2630 Frederica St, Owensboro, KY 42301, USA",ROOFTOP,Big,000000
 Kroger,530,"1670 Starlite Dr Owensboro,",KY,42301,(636) 528-8426,37.7543516,-87.150849,"1670 Starlite Dr, Owensboro, KY 42301, USA",ROOFTOP,Big,000000
 Kroger,531,"PO Box 1128 Owensboro,",KY,42302,(620) 593-4188,37.77,-87.11,"Owensboro, KY 42302, USA",APPROXIMATE,Big,000000
-Kroger,532,"PO Box 11 Madisonville,",KY,42431,(618) 495-2661,,,,,Big,000000
+Kroger,532,"PO Box 11 Madisonville,",KY,42431,(618) 495-2661,0.0,0.0,,,Big,000000
 Kroger,533,"181 S Highway 27 Somerset,",KY,42501,(636) 458-1304,37.0841832,-84.6165546,"181 S Hwy 27, Somerset, KY 42501, USA",ROOFTOP,Big,000000
 Kroger,534,"470 E Highway 80 Somerset,",KY,42501,(606) 678-5147,37.100748,-84.61357199999999,"470 KY-80, Somerset, KY 42501, USA",ROOFTOP,Big,000000
 Kroger,535,"PO Box 1128 Somerset,",KY,42502,(620) 593-4188,37.0934767,-84.6038834,"Somerset, KY 42502, USA",APPROXIMATE,Big,000000
@@ -10470,7 +10470,7 @@ Kroger,1061,"4142 Cedar Springs Rd Dallas,",TX,75219,(252) 453-0372,32.8133582,-
 Kroger,1062,"160 Coit Rd Dallas,",TX,75248,(972) 234-9083,33.0000505,-96.7677246,"160 Coit Rd, Plano, TX 75075, USA",RANGE_INTERPOLATED,Big,000000
 Kroger,1063,"17194 Preston Rd Dallas,",TX,75248,(972) 931-9391,32.9839422,-96.8018305,"17194 Preston Rd, Dallas, TX 75248, USA",ROOFTOP,Big,000000
 Kroger,1064,"3939 Frankford Rd Dallas,",TX,75287,(972) 662-1000,32.9984698,-96.8460808,"3939 Frankford Rd, Dallas, TX 75287, USA",ROOFTOP,Big,000000
-Kroger,1065,"2415 Us Highway 79 E # 79 Henderson,",TX,75652,(903) 657-3501,,,,,Big,000000
+Kroger,1065,"2415 Us Highway 79 E # 79 Henderson,",TX,75652,(903) 657-3501,0.0,0.0,,,Big,000000
 Kroger,1066,"300 E End Blvd S Marshall,",TX,75670,(903) 938-7711,32.5429707,-94.3492074,"300 E End Blvd S, Marshall, TX 75670, USA",ROOFTOP,Big,000000
 Kroger,1067,"121 N Church St Palestine,",TX,75801,(903) 729-1163,31.7619877,-95.62693279999999,"121 N Church St, Palestine, TX 75801, USA",ROOFTOP,Big,000000
 Kroger,1068,"325 E Spring St Palestine,",TX,75801,(903) 729-5108,31.7624687,-95.6277236,"325 E Spring St, Palestine, TX 75801, USA",GEOMETRIC_CENTER,Big,000000
@@ -10672,7 +10672,7 @@ Kroger,1263,"7480 Lee Hwy Radford,",VA,24141,(540) 639-0311,37.14167510000001,-8
 Kroger,1264,"Radford Shopping Plz Radford,",VA,24141,(540) 639-0311,37.1303684,-80.58207349999999,"717 W Main St, Radford, VA 24141, USA",ROOFTOP,Big,000000
 Kroger,1265,"PO Box 1128 Rocky Mount,",VA,24151,(620) 593-4188,36.9973902,-79.89285439999999,"20 E College St, Rocky Mount, VA 24151, USA",ROOFTOP,Big,000000
 Kroger,1266,"1925 Electric Rd Salem,",VA,24153,(540) 375-0873,37.2643691,-80.03411659999999,"1925 Electric Rd, Salem, VA 24153, USA",ROOFTOP,Big,000000
-Kroger,1267,"PO Box 1128 Salem,",VA,24153,(620) 593-4188,,,,,Big,000000
+Kroger,1267,"PO Box 1128 Salem,",VA,24153,(620) 593-4188,0.0,0.0,,,Big,000000
 Kroger,1268,"915 Hardy Rd Lake Dr Vinton,",VA,24179,(540) 345-7017,37.2723368,-79.8870302,"915 Hardy Rd, Vinton, VA 24179, USA",ROOFTOP,Big,000000
 Kroger,1269,"544 E Stuart Dr Galax,",VA,24333,(636) 970-4001,36.674152,-80.9139972,"544 E Stuart Dr, Galax, VA 24333, USA",ROOFTOP,Big,000000
 Kroger,1270,"Galax Plz Galax,",VA,24333,(636) 970-4001,36.6617831,-80.9247843,"1149 Glendale Rd, Galax, VA 24333, USA",ROOFTOP,Big,000000
@@ -10990,7 +10990,7 @@ Mace Supermarkets,1,"1004 Highway 28 E Belle,",MO,65013,(573) 859-3362,38.278445
 Mace Supermarkets,2,"200 N Franklin St Cuba,",MO,65453,(573) 885-6223,38.0640349,-91.40479289999999,"200 N Franklin St, Cuba, MO 65453, USA",ROOFTOP,Other,000000
 Macs Market,1,"Jefferson Rd Whitefield,",NH,03598,(573) 636-4922,44.3858459,-71.57168109999999,"Jefferson Rd, Whitefield, NH 03598, USA",GEOMETRIC_CENTER,Other,000000
 Macs Market,2,"Vt Route 100 Warren,",VT,05674,(802) 496-3366,44.1106411,-72.8581126,"VT-100, Warren, VT 05674, USA",GEOMETRIC_CENTER,Other,000000
-Made In Hawaii Foods,1,"98-718 Moanalua Loop # A18 Aiea,",HI,96701,(808) 484-0052,,,,,Other,000000
+Made In Hawaii Foods,1,"98-718 Moanalua Loop # A18 Aiea,",HI,96701,(808) 484-0052,0.0,0.0,,,Other,000000
 Made In Hawaii Foods,2,"98 Moanalua Rdg Honolulu,",HI,96818,(808) 484-0052,21.3455431,-157.9281735,"98 Moanalua Ridge, Honolulu, HI 96818, USA",RANGE_INTERPOLATED,Other,000000
 Madison Foods,1,"4979 Us Highway 287 N Ennis,",MT,59729,(406) 682-4306,45.3527612,-111.7340127,"4979 US-287, Ennis, MT 59729, USA",ROOFTOP,Other,000000
 Madison Foods,2,"100 W Main St Ennis,",MT,59729,(406) 682-5360,45.3489672,-111.7302392,"100 Main St, Ennis, MT 59729, USA",ROOFTOP,Other,000000
@@ -11342,7 +11342,7 @@ Meijer,55,"4100 Towne Center Dr Louisville,",KY,40241,(502) 326-5207,38.2992194,
 Meijer,56,"9905 Dixie Hwy Louisville,",KY,40272,(502) 995-2101,38.1135176,-85.861578,"9905 Dixie Hwy, Louisville, KY 40272, USA",GEOMETRIC_CENTER,Other,000000
 Meijer,57,"4500 S Hurstbourne Pkwy Louisville,",KY,40299,(502) 493-4921,38.1872072,-85.6068773,"4500 S Hurstbourne Pkwy, Louisville, KY 40299, USA",ROOFTOP,Other,000000
 Meijer,58,"351 W Reynolds Rd Lexington,",KY,40503,(859) 219-3766,37.9952,-84.53390000000002,"351 W Reynolds Rd, Lexington, KY 40503, USA",ROOFTOP,Other,000000
-Meijer,59,"2155 Sir Barton Way # 100 Lexington,",KY,40509,(859) 264-3033,,,,,Other,000000
+Meijer,59,"2155 Sir Barton Way # 100 Lexington,",KY,40509,(859) 264-3033,0.0,0.0,,,Other,000000
 Meijer,60,"4990 Houston Rd Florence,",KY,41042,(859) 746-6373,39.011426,-84.6382659,"4990 Houston Rd, Florence, KY 41042, USA",ROOFTOP,Other,000000
 Meijer,61,"5400 Alexandria Pike Unit 3 Newport,",KY,41076,(859) 448-4208,38.9981721,-84.42081759999999,"5400 Alexandria Pike #3, Cold Spring, KY 41076, USA",ROOFTOP,Other,000000
 Meijer,62,"305 S Range Rd Marysville,",MI,48040,(810) 388-9600,42.8973752,-82.4992322,"305 S Range Rd, Marysville, MI 48040, USA",RANGE_INTERPOLATED,Other,000000
@@ -11490,7 +11490,7 @@ Metal Supermarkets,2,"Tuscaloosa,",AL,35401,(888) 359-6385,33.1690726,-87.638379
 Metal Supermarkets,3,"943 W 23st Phoenix,",AZ,85001,(480) 377-0233,33.4032493,-111.9540891,"943 W 23rd St, Tempe, AZ 85282, USA",ROOFTOP,Other,000000
 Metal Supermarkets,4,"San Francisco,",CA,94101,(866) 700-2839,37.7749295,-122.4194155,"San Francisco, CA, USA",APPROXIMATE,Other,000000
 Metal Supermarkets,5,"1000 Williams Dr Marietta,",GA,30066,(770) 218-0550,33.9928577,-84.538355,"1000 Williams Dr, Marietta, GA 30066, USA",ROOFTOP,Other,000000
-Metal Supermarkets,6,"1012 Williams Dr # 1000 Marietta,",GA,30066,(770) 218-0550,,,,,Other,000000
+Metal Supermarkets,6,"1012 Williams Dr # 1000 Marietta,",GA,30066,(770) 218-0550,0.0,0.0,,,Other,000000
 Metal Supermarkets,7,"4301 Pleasantdale Rd Ste J Atlanta,",GA,30340,(678) 421-0054,33.9083547,-84.2460718,"4301 Pleasantdale Rd Ste J, Doraville, GA 30340, USA",ROOFTOP,Other,000000
 Metal Supermarkets,8,"1675 Tonne Rd Elk Grove Village,",IL,60007,(847) 439-3155,42.0008118,-87.978742,"1675 Tonne Rd, Elk Grove Village, IL 60007, USA",ROOFTOP,Other,000000
 Metal Supermarkets,9,"3790 Hawthorn Ct Waukegan,",IL,60087,(847) 599-1800,42.395423,-87.894336,"3790 Hawthorn Ct, Waukegan, IL 60087, USA",ROOFTOP,Other,000000
@@ -11869,7 +11869,7 @@ P & C Foods,23,"4410 E Genesee St Syracuse,",NY,13214,(973) 627-1084,43.0345514,
 P & C Foods,24,"2120 W Genesee St Syracuse,",NY,13219,(985) 785-2853,43.0485036,-76.1984784,"2120 W Genesee St, Syracuse, NY 13219, USA",ROOFTOP,Other,000000
 P & C Foods,25,"PO Box 4965 Syracuse,",NY,13221,(973) 705-3031,43.1233019,-76.1278719,"Syracuse, NY 13221, USA",APPROXIMATE,Other,000000
 P & C Foods,26,"State Route 13 Camden,",NY,13316,(973) 560-4121,43.3345266,-75.74807990000001,"NY-13, Camden, NY, USA",GEOMETRIC_CENTER,Other,000000
-P & C Foods,27,"2 To 5 Commons Dr Rt 28 Cooperstown,",NY,13326,(607) 547-5956,,,,,Other,000000
+P & C Foods,27,"2 To 5 Commons Dr Rt 28 Cooperstown,",NY,13326,(607) 547-5956,0.0,0.0,,,Other,000000
 P & C Foods,28,"5 Commons Dr Cooperstown,",NY,13326,(607) 547-8230,42.648878,-74.9589814,"5 Commons Dr, Cooperstown, NY 13326, USA",ROOFTOP,Other,000000
 P & C Foods,29,"Lowville Plz Lowville,",NY,13367,(972) 329-0191,43.7819609,-75.4833646,"Lowville Heights Rd, Lowville, NY 13367, USA",GEOMETRIC_CENTER,Other,000000
 P & C Foods,30,"217 Erie Blvd W Rome,",NY,13440,(972) 727-9089,43.2101238,-75.4623288,"217 Erie Blvd W, Rome, NY 13440, USA",ROOFTOP,Other,000000
@@ -11887,7 +11887,7 @@ P & C Foods,41,"179 Market St Potsdam,",NY,13676,(972) 512-3355,44.684548,-74.98
 P & C Foods,42,"Watkins Gln S Franklin,",NY,13775,(607) 535-4064,42.3715546,-76.8686348,"S Franklin St, Watkins Glen, NY 14891, USA",GEOMETRIC_CENTER,Other,000000
 P & C Foods,43,"1145 State Route 17c Owego,",NY,13827,(607) 687-2546,42.0980722,-76.2323127,"1145 NY-17C, Owego, NY 13827, USA",ROOFTOP,Other,000000
 P & C Foods,44,"PO Box 1365 Keuka Park,",NY,14478,(563) 488-2220,42.6151357,-77.09190559999999,"Keuka Park, NY, USA",APPROXIMATE,Other,000000
-P & C Foods,45,"415 W Morris St # And Bath,",NY,14810,(607) 776-7475,,,,,Other,000000
+P & C Foods,45,"415 W Morris St # And Bath,",NY,14810,(607) 776-7475,0.0,0.0,,,Other,000000
 P & C Foods,46,"Route 415 Bath,",NY,14810,(607) 776-7475,42.3370138,-77.3179846,"NY-415, Bath, NY, USA",GEOMETRIC_CENTER,Other,000000
 P & C Foods,47,"18 Park Dr Hornell,",NY,14843,(607) 324-6584,42.3196504,-77.65817609999999,"18 Park Dr, Hornell, NY 14843, USA",ROOFTOP,Other,000000
 P & C Foods,48,"N Triphammer Rd Ithaca,",NY,14850,(607) 257-7095,42.5025801,-76.4906664,"N Triphammer Rd, Ithaca, NY 14850, USA",GEOMETRIC_CENTER,Other,000000
@@ -11975,11 +11975,11 @@ Pathmark,6,"651 N Stiles St Linden,",NJ,07036,(908) 486-9090,40.6259622,-74.2687
 Pathmark,7,"2465 Us Highway 22 W Union,",NJ,07083,(908) 964-8610,40.6902115,-74.2984402,"2465 US-22, Union, NJ 07083, USA",RANGE_INTERPOLATED,Other,000000
 Pathmark,8,"4100 Park Ave Ste 13 Weehawken,",NJ,07086,(201) 867-0750,40.7741211,-74.0202808,"4100 Park Ave #13, Weehawken, NJ 07086, USA",ROOFTOP,Other,000000
 Pathmark,9,"Woodbridge,",NJ,07095,(732) 499-3000,40.5545823,-74.2824862,"Woodbridge, NJ 07095, USA",APPROXIMATE,Other,000000
-Pathmark,10,"281 Ferry St # 295 Newark,",NJ,07105,(973) 589-3917,,,,,Other,000000
+Pathmark,10,"281 Ferry St # 295 Newark,",NJ,07105,(973) 589-3917,0.0,0.0,,,Other,000000
 Pathmark,11,"Washington Ave Belleville,",NJ,07109,(630) 231-1140,40.7962912,-74.1488683,"Washington Ave, Belleville, NJ 07109, USA",GEOMETRIC_CENTER,Other,000000
 Pathmark,12,"Belleville,",NJ,07109,(973) 751-0777,40.7956149,-74.16509909999999,"Belleville, NJ 07109, USA",APPROXIMATE,Other,000000
 Pathmark,13,"726 Washington Ave Belleville,",NJ,07109,(973) 751-7808,40.8048677,-74.1456515,"726 Washington Ave, Belleville, NJ 07109, USA",ROOFTOP,Other,000000
-Pathmark,14,"471 Lyons Ave # 79 Irvington,",NJ,07111,(973) 923-8633,,,,,Other,000000
+Pathmark,14,"471 Lyons Ave # 79 Irvington,",NJ,07111,(973) 923-8633,0.0,0.0,,,Other,000000
 Pathmark,15,"47179 Lyons Ave Irvington,",NJ,07111,(973) 923-8633,40.7165668,-74.2260148,"Lyons Ave, Irvington, NJ 07111, USA",GEOMETRIC_CENTER,Other,000000
 Pathmark,16,"PO Box 5001 Jersey City,",NJ,07305,(201) 434-1212,40.7008528,-74.0887576,"Jersey City, NJ 07305, USA",APPROXIMATE,Other,000000
 Pathmark,17,"25 Kinnelon Rd Ste 13 Butler,",NJ,07405,(973) 838-6699,41.0028072,-74.3609957,"25 Kinnelon Rd #13, Butler, NJ 07405, USA",ROOFTOP,Other,000000
@@ -12031,7 +12031,7 @@ Pathmark,62,"1000 Easton Rd Abington,",PA,19001,(301) 353-8903,40.1181479,-75.13
 Pathmark,63,"2603 Durham Rd Bristol,",PA,19007,(304) 755-3397,40.1273331,-74.883866,"2603 Durham Rd, Bristol, PA 19007, USA",ROOFTOP,Other,000000
 Pathmark,64,"2506 Knights Rd Bensalem,",PA,19020,(301) 689-6847,40.10139179999999,-74.9573178,"2506 Knights Rd, Bensalem, PA 19020, USA",ROOFTOP,Other,000000
 Pathmark,65,"420 Macdade Blvd Folsom,",PA,19033,(610) 586-3117,39.88843869999999,-75.3260039,"420 MacDade Boulevard, Folsom, PA 19033, USA",ROOFTOP,Other,000000
-Pathmark,66,"421 S 69th St # 610 Upper Darby,",PA,19082,(610) 734-1166,,,,,Other,000000
+Pathmark,66,"421 S 69th St # 610 Upper Darby,",PA,19082,(610) 734-1166,0.0,0.0,,,Other,000000
 Pathmark,67,"840 Cottman Ave Philadelphia,",PA,19111,(270) 388-7341,40.0611027,-75.0872131,"840 Cottman Ave, Philadelphia, PA 19111, USA",ROOFTOP,Other,000000
 Pathmark,68,"2900 N Broad St Philadelphia,",PA,19132,(253) 630-0063,39.9970711,-75.1545612,"2900 N Broad St, Philadelphia, PA 19132, USA",ROOFTOP,Other,000000
 Pathmark,69,"666 E Allegheny Ave Philadelphia,",PA,19134,(713) 256-0574,39.9967959,-75.11756079999999,"666 E Allegheny Ave, Philadelphia, PA 19134, USA",ROOFTOP,Other,000000
@@ -12829,7 +12829,7 @@ Price Chopper,94,"595 Shelburne Rd Burlington,",VT,05401,(802) 651-9835,44.44938
 Price Chopper,95,"90 Center Rd Essex Junction,",VT,05452,(802) 879-4155,44.5118603,-73.06581109999999,"90 Center Rd, Essex Junction, VT 05452, USA",ROOFTOP,Other,000000
 Price Chopper,96,"170 Swanton Rd Saint Albans,",VT,05478,(802) 524-2637,44.8354982,-73.08385179999999,"170 Swanton Rd, St Albans City, VT 05478, USA",ROOFTOP,Other,000000
 Price Chopper,97,"Ames Shopping Plz Barre,",VT,05641,(802) 479-9078,44.2247207,-72.5474883,"168 Ames Dr, Barre, VT 05641, USA",ROOFTOP,Other,000000
-Price Chopper,98,"5 Madison St # 4 Rutland,",VT,05701,(802) 438-6119,,,,,Other,000000
+Price Chopper,98,"5 Madison St # 4 Rutland,",VT,05701,(802) 438-6119,0.0,0.0,,,Other,000000
 Price Chopper,99,"Saint Johnsbury,",VT,05819,(610) 252-2005,44.4193374,-72.0155425,"Waterford, VT 05819, USA",APPROXIMATE,Other,000000
 Price Chopper,100,"Route 5 Saint Johnsbury,",VT,05819,(802) 748-1109,44.41998299999999,-72.0154026,"US-5, Waterford, VT 05819, USA",GEOMETRIC_CENTER,Other,000000
 Price Chopper,101,"56 Commons Dr Derby,",VT,05829,(802) 334-1475,44.9535812,-72.160491,"56 Commons Dr, Newport, VT 05855, USA",ROOFTOP,Other,000000
@@ -13118,7 +13118,7 @@ Publix,254,"270 E Eau Gallie Blvd Satellite Beach,",FL,32937,(321) 773-1019,28.1
 Publix,255,"500 Palm Springs Blvd Satellite Beach,",FL,32937,(321) 773-1019,28.1497797,-80.5878031,"500 Palm Springs Blvd, Indian Harbour Beach, FL 32937, USA",ROOFTOP,Big,000000
 Publix,256,"7777 N Wickham Rd Melbourne,",FL,32940,(321) 253-6142,28.2297837,-80.69747,"7777 N Wickham Rd, Melbourne, FL 32940, USA",ROOFTOP,Big,000000
 Publix,257,"3830 S Highway A1a Melbourne Beach,",FL,32951,(321) 726-3952,28.015447,-80.53498979999999,"3830 S Hwy A1A, Melbourne Beach, FL 32951, USA",ROOFTOP,Big,000000
-Publix,258,"125 E Merritt Island Cswy # 757 Merritt Island,",FL,32952,(321) 452-0288,,,,,Big,000000
+Publix,258,"125 E Merritt Island Cswy # 757 Merritt Island,",FL,32952,(321) 452-0288,0.0,0.0,,,Big,000000
 Publix,259,"1850 N Courtenay Pkwy Merritt Island,",FL,32953,(321) 986-6393,28.3885142,-80.7017326,"1850 N Courtenay Pkwy, Merritt Island, FL 32953, USA",ROOFTOP,Big,000000
 Publix,260,"3802 Murrell Rd Rockledge,",FL,32955,(321) 631-0526,28.2940221,-80.72427859999999,"3802 Murrell Rd, Rockledge, FL 32955, USA",ROOFTOP,Big,000000
 Publix,261,"3820 Murrell Rd Rockledge,",FL,32955,(321) 636-9820,28.2948468,-80.7226003,"3820 Murrell Rd, Rockledge, FL 32955, USA",ROOFTOP,Big,000000
@@ -13566,7 +13566,7 @@ Publix,702,"4860 Davis Blvd Naples,",FL,34104,(419) 747-8355,26.1371939,-81.7485
 Publix,703,"7101 Radio Rd Naples,",FL,34104,(425) 235-5383,26.1555626,-81.7220887,"7101 Radio Rd, Naples, FL 34104, USA",ROOFTOP,Big,000000
 Publix,704,"2310 Pine Ridge Rd Naples,",FL,34109,(423) 376-2700,26.2104569,-81.7716954,"2310 Pine Ridge Rd, Naples, FL 34109, USA",ROOFTOP,Big,000000
 Publix,705,"2450 Vanderbilt Beach Rd Naples,",FL,34109,(425) 398-7033,26.2418256,-81.7675081,"2450 Vanderbilt Beach Rd, Naples, FL 34109, USA",ROOFTOP,Big,000000
-Publix,706,"11200 Old 41 N # 2200 Naples,",FL,34110,(440) 544-1354,,,,,Big,000000
+Publix,706,"11200 Old 41 N # 2200 Naples,",FL,34110,(440) 544-1354,0.0,0.0,,,Big,000000
 Publix,707,"5624 Strand Blvd Naples,",FL,34110,(443) 394-8388,26.2752047,-81.74579899999999,"5624 Strand Blvd, Naples, FL 34110, USA",ROOFTOP,Big,000000
 Publix,708,"4370 Thomasson Dr Naples,",FL,34112,(479) 331-3333,26.1061097,-81.74990199999999,"4370 Thomasson Dr, Naples, FL 34112, USA",ROOFTOP,Big,000000
 Publix,709,"5238 Texas Ave Naples,",FL,34113,(479) 443-2968,26.0808369,-81.7211975,"5238 Texas Ave, Naples, FL 34113, USA",ROOFTOP,Big,000000
@@ -13705,7 +13705,7 @@ Publix,841,"4231 Nw Federal Hwy Jensen Beach,",FL,34957,(772) 692-7090,27.257953
 Publix,842,"3551 Us Highway 441 S Okeechobee,",FL,34974,(863) 763-3500,27.2105428,-80.8317238,"3551 US-441, Okeechobee, FL 34974, USA",ROOFTOP,Big,000000
 Publix,843,"2517 S Us Highway 1 Fort Pierce,",FL,34982,(772) 595-1700,27.4226877,-80.32599499999999,"2517 S US Hwy 1, Fort Pierce, FL 34982, USA",RANGE_INTERPOLATED,Big,000000
 Publix,844,"5473 Nw Saint James Dr Port Saint Lucie,",FL,34983,(772) 878-1526,27.355005,-80.35812190000001,"5473 NW St James Dr, Port St. Lucie, FL 34983, USA",ROOFTOP,Big,000000
-Publix,845,"3203 Se Pinto St # 3203 Port Saint Lucie,",FL,34984,(772) 336-3182,,,,,Big,000000
+Publix,845,"3203 Se Pinto St # 3203 Port Saint Lucie,",FL,34984,(772) 336-3182,0.0,0.0,,,Big,000000
 Publix,846,"788 Se Becker Rd Port Saint Lucie,",FL,34984,(772) 336-5186,27.2095732,-80.326359,"788 SE Becker Rd, Port St. Lucie, FL 34984, USA",ROOFTOP,Big,000000
 Publix,847,"1333 Nw Saint Lucie West Blvd Port Saint Lucie,",FL,34986,(772) 340-7200,27.3181742,-80.38841459999999,"1333 NW, St Lucie W Blvd, Port St. Lucie, FL 34986, USA",GEOMETRIC_CENTER,Big,000000
 Publix,848,"10400 Sw Village Center Dr Port Saint Lucie,",FL,34987,(772) 345-9900,27.2683814,-80.4311743,"10400 SW Village Center Dr, Port St. Lucie, FL 34987, USA",ROOFTOP,Big,000000
@@ -15394,7 +15394,7 @@ Safeway,1059,"1803 George Washington Way Richland,",WA,99354,(509) 946-9605,46.2
 Safeway,1060,"215 E Rose St Walla Walla,",WA,99362,(509) 522-0227,46.070317,-118.3377786,"215 E Rose St, Walla Walla, WA 99362, USA",ROOFTOP,Big,000000
 Safeway,1061,"1600 Plaza Way Walla Walla,",WA,99362,(509) 522-4672,46.0487884,-118.3471869,"1600 Plaza Way, Walla Walla, WA 99362, USA",ROOFTOP,Big,000000
 Safeway,1062,"2512 Pioneer Ave Cheyenne,",WY,82001,(888) 724-9267,41.1400746,-104.823665,"2512 Pioneer Ave, Cheyenne, WY 82001, USA",ROOFTOP,Big,000000
-Safeway,1063,"400 Central Ave # Cole Cheyenne,",WY,82007,(888) 724-9267,,,,,Big,000000
+Safeway,1063,"400 Central Ave # Cole Cheyenne,",WY,82007,(888) 724-9267,0.0,0.0,,,Big,000000
 Safeway,1064,"710 S Greeley Hwy Cheyenne,",WY,82007,(888) 724-9267,41.11109709999999,-104.8008548,"710 S Greeley Hwy, Cheyenne, WY 82007, USA",RANGE_INTERPOLATED,Big,000000
 Safeway,1065,"700 S Greeley Hwy Cheyenne,",WY,82007,(888) 724-9267,41.1108905,-104.8026005,"700 S Greeley Hwy, Cheyenne, WY 82007, USA",ROOFTOP,Big,000000
 Safeway,1066,"469 Cole Rd Cheyenne,",WY,82009,(888) 724-9267,41.1608138,-105.0601362,"Cole Rd, Wyoming 82009, USA",GEOMETRIC_CENTER,Big,000000
@@ -16308,7 +16308,7 @@ Sedanos Supermarket,25,"13794 Sw 152nd St Miami,",FL,33177,(609) 924-4935,25.625
 Sedanos Supermarket,26,"10780 Nw 58th St Miami,",FL,33178,(870) 793-2143,25.8249921,-80.3718928,"10780 NW 58th St, Doral, FL 33178, USA",ROOFTOP,Other,000000
 Sedanos Supermarket,27,"16255 Sw 88th St Miami,",FL,33196,(860) 582-3154,25.6854892,-80.4555109,"16255 SW 88th St, Miami, FL 33193, USA",ROOFTOP,Other,000000
 Sedanos Supermarket,28,"2505 N Dixie Hwy Lake Worth,",FL,33460,(561) 493-3343,26.643869,-80.05768900000001,"2505 N Dixie Hwy, Lake Worth, FL 33460, USA",ROOFTOP,Other,000000
-Selecto Supermarket,1,"531 S Broad St # 535 Trenton,",NJ,08611,(609) 989-7475,,,,,Other,000000
+Selecto Supermarket,1,"531 S Broad St # 535 Trenton,",NJ,08611,(609) 989-7475,0.0,0.0,,,Other,000000
 Selecto Supermarket,2,"533 S Broad St Trenton,",NJ,08611,(609) 989-7475,40.2109978,-74.75735,"533 S Broad St, Trenton, NJ 08611, USA",ROOFTOP,Other,000000
 Seneca Foods,1,"1605 Main St Ste 1010 Sarasota,",FL,34236,(941) 366-9707,27.3366396,-82.5377914,"1605 Main St #1010, Sarasota, FL 34236, USA",ROOFTOP,Other,000000
 Seneca Foods,2,"430 7th Ave S Buhl,",ID,83316,(208) 543-9336,42.598033,-114.749473,"430 7th Ave S, Buhl, ID 83316, USA",ROOFTOP,Other,000000
@@ -16567,7 +16567,7 @@ Shaws,163,"109 Vt Route 12 S Randolph,",VT,05060,(802) 728-3584,43.912422,-72.66
 Shaws,164,"215 S Main St Chester,",VT,05143,0,43.2561419,-72.581932,"215 S Main St, Chester, VT 05143, USA",ROOFTOP,Other,000000
 Shaws,165,"213 Main St Ludlow,",VT,05149,(712) 726-3166,43.3969452,-72.7035276,"213 Main St, Ludlow, VT 05149, USA",ROOFTOP,Other,000000
 Shaws,166,"64 Equinox Ter Manchester Center,",VT,05255,(802) 362-4447,43.1719275,-73.0616494,"64 Equinox Terrace, Manchester Center, VT 05255, USA",ROOFTOP,Other,000000
-Shaws,167,"86 E Main St # Wi Wilmington,",VT,05363,(802) 464-2161,,,,,Other,000000
+Shaws,167,"86 E Main St # Wi Wilmington,",VT,05363,(802) 464-2161,0.0,0.0,,,Other,000000
 Shaws,168,"570 Shelburne Rd Burlington,",VT,05401,(802) 860-2255,44.4496407,-73.2077537,"570 Shelburne Rd, Burlington, VT 05401, USA",GEOMETRIC_CENTER,Other,000000
 Shaws,169,"7 Prince Ln Bristol,",VT,05443,(802) 453-4865,44.1337299,-73.07698800000001,"7 Prince Ln, Bristol, VT 05443, USA",ROOFTOP,Other,000000
 Shaws,170,"66 Mountain View Dr Ste 2 Colchester,",VT,05446,(802) 654-7803,44.5091138,-73.18105360000001,"66 Mountain View Dr #2, Colchester, VT 05446, USA",ROOFTOP,Other,000000
@@ -17456,7 +17456,7 @@ Stop & GO,7,"265 Macedon Center Rd Fairport,",NY,14450,(585) 223-3561,43.0965954
 Stop & GO,8,"3215 Chili Ave Rochester,",NY,14624,(585) 889-3207,43.1053971,-77.74902,"3215 Chili Ave, Rochester, NY 14624, USA",ROOFTOP,Other,000000
 Stop & GO,9,"828 W Liberty St Medina,",OH,44256,(330) 725-1475,41.1388322,-81.8817174,"828 W Liberty St, Medina, OH 44256, USA",ROOFTOP,Other,000000
 Stop & GO,10,"215 S Jefferson St Medina,",OH,44256,(330) 725-2551,41.13767319999999,-81.86083699999999,"215 S Jefferson St, Medina, OH 44256, USA",RANGE_INTERPOLATED,Other,000000
-Stop & GO,11,"2330 Nasa Pkwy # 1277 Houston,",TX,77058,(703) 569-3533,,,,,Other,000000
+Stop & GO,11,"2330 Nasa Pkwy # 1277 Houston,",TX,77058,(703) 569-3533,0.0,0.0,,,Other,000000
 Stop & GO,12,"27150 E River Rd Splendora,",TX,77372,(717) 872-2457,30.250027,-95.14072279999999,"27150 E River Rd, Splendora, TX 77372, USA",ROOFTOP,Other,000000
 Stop & GO,13,"100 N Danville St Willis,",TX,77378,(936) 856-2878,30.42432,-95.47967009999999,"100 N Danville St, Willis, TX 77378, USA",ROOFTOP,Other,000000
 Stop & GO,14,"3324 E Nasa Pkwy Kemah,",TX,77565,(703) 406-6500,29.5639144,-95.0425558,"3324 E NASA Pkwy, Seabrook, TX 77586, USA",ROOFTOP,Other,000000
@@ -17777,7 +17777,7 @@ Stop & Shop,311,"1 Bradley Rd Braintree,",MA,02184,(781) 380-5000,42.2130578,-70
 Stop & Shop,312,"316 Grove St Braintree,",MA,02184,(781) 848-3361,42.190603,-70.9864432,"316 Grove St, Braintree, MA 02184, USA",ROOFTOP,Big,000000
 Stop & Shop,313,"700 Middle St Weymouth,",MA,02188,(781) 331-1902,42.200303,-70.9440917,"700 Middle St, Weymouth, MA 02188, USA",ROOFTOP,Big,000000
 Stop & Shop,314,"700 Middle Street East Weymouth,",MA,02189,(781) 331-1902,42.200303,-70.9440917,"700 Middle St, Weymouth, MA 02188, USA",ROOFTOP,Big,000000
-Stop & Shop,315,"932 N Montello St # 508 Brockton,",MA,02301,(508) 427-0537,,,,,Big,000000
+Stop & Shop,315,"932 N Montello St # 508 Brockton,",MA,02301,(508) 427-0537,0.0,0.0,,,Big,000000
 Stop & Shop,316,"701 Belmont St Brockton,",MA,02301,(508) 427-5540,42.0700727,-71.0468027,"701 Belmont St, Brockton, MA 02301, USA",RANGE_INTERPOLATED,Big,000000
 Stop & Shop,317,"133 Main St Avon,",MA,02322,(508) 588-6984,42.1327157,-71.04023939999999,"133 Main St, Avon, MA 02322, USA",RANGE_INTERPOLATED,Big,000000
 Stop & Shop,318,"N River Plz Bryantville,",MA,02327,(781) 826-7329,42.1058017,-70.77185089999999,"125 Church St # 190, Pembroke, MA 02359, USA",ROOFTOP,Big,000000
@@ -18378,7 +18378,7 @@ Super A Foods,12,"1825 N Verdugo Rd Glendale,",CA,91208,(323) 551-6884,34.175387
 Super A Foods,13,"300 W Main St Alhambra,",CA,91801,(626) 282-0605,34.0931461,-118.1304634,"300 W Main St, Alhambra, CA 91801, USA",ROOFTOP,Other,000000
 Super A Foods,14,"725 W Ventura St Fillmore,",CA,93015,(805) 524-3947,34.396901,-118.918662,"725 Ventura St, Fillmore, CA 93015, USA",ROOFTOP,Other,000000
 Super A Foods,15,"4325 Red Bluff Rd Pasadena,",TX,77503,(712) 732-9018,29.6775951,-95.14358519999999,"4325 Red Bluff Rd, Pasadena, TX 77503, USA",ROOFTOP,Other,000000
-Super Bargain,1,"1901 W 8th St # A Los Angeles,",CA,90057,(239) 353-8228,,,,,Other,000000
+Super Bargain,1,"1901 W 8th St # A Los Angeles,",CA,90057,(239) 353-8228,0.0,0.0,,,Other,000000
 Super Bargain,2,"4323 W Century Blvd Inglewood,",CA,90304,(912) 262-6663,33.9458198,-118.3513312,"4323 W Century Blvd, Inglewood, CA 90304, USA",ROOFTOP,Other,000000
 Super Bargain,3,"6583 Atlantic Ave Long Beach,",CA,90805,(562) 423-2775,33.8736196,-118.1869587,"6583 Atlantic Ave, Long Beach, CA 90805, USA",ROOFTOP,Other,000000
 Super Bargain,4,"1400 Cherry Ave Long Beach,",CA,90813,(562) 438-2099,33.7847023,-118.1672601,"1400 Cherry Ave, Long Beach, CA 90813, USA",ROOFTOP,Other,000000
@@ -18440,7 +18440,7 @@ Super Fresh,47,"616 E Main St Lansdale,",PA,19446,(305) 223-0332,40.232796,-75.2
 Super Fresh,48,"596 Rosa Rd San Elizario,",TX,79849,(915) 851-0222,31.5907836,-106.2649086,"De La Rosa Rd, San Elizario, TX 79849, USA",GEOMETRIC_CENTER,Other,000000
 Super K Food Store,1,"650 Auburn Folsom Rd Auburn,",CA,95603,(530) 887-1949,38.8789524,-121.0807334,"650 Auburn Folsom Rd, Auburn, CA 95603, USA",ROOFTOP,Other,000000
 Super K Food Store,2,"1500 E Sample Rd Pompano Beach,",FL,33064,(954) 941-6054,26.2751037,-80.10268110000001,"1500 E Sample Rd, Pompano Beach, FL 33064, USA",RANGE_INTERPOLATED,Other,000000
-Super K Food Store,3,"17342 Northwest Fwy # 9181 Houston,",TX,77040,(713) 856-9181,,,,,Other,000000
+Super K Food Store,3,"17342 Northwest Fwy # 9181 Houston,",TX,77040,(713) 856-9181,0.0,0.0,,,Other,000000
 Super One Foods,1,"3507 Jewella Ave Shreveport,",LA,71109,(318) 635-4551,32.4791618,-93.79724259999999,"3507 Jewella Ave, Shreveport, LA 71109, USA",RANGE_INTERPOLATED,Other,000000
 Super One Foods,2,"Midtown Mall Iron Mountain,",MI,49801,(906) 774-6990,45.8124343,-88.0623705,"1062 S Stephenson Ave, Iron Mountain, MI 49801, USA",ROOFTOP,Other,000000
 Super One Foods,3,"501 N Lincoln Rd Escanaba,",MI,49829,(906) 786-9090,45.7511976,-87.08080149999999,"501 N Lincoln Rd, Escanaba, MI 49829, USA",ROOFTOP,Other,000000
@@ -18519,7 +18519,7 @@ Superior Market,7,"4812 104th St Corona,",NY,11368,(718) 476-3011,40.744634,-73.
 Superior Market,8,"8801 Jamaica Ave Woodhaven,",NY,11421,(718) 849-5906,40.6929253,-73.85640579999999,"88-01 Jamaica Ave, Jamaica, NY 11421, USA",ROOFTOP,Other,000000
 Superior Market,9,"22033 Jamaica Ave Queens Village,",NY,11428,(718) 464-0098,40.7197256,-73.7334011,"220-33 Jamaica Ave, Jamaica, NY 11428, USA",ROOFTOP,Other,000000
 Superior Supermarket,1,"42 Woodward Ave Norwalk,",CT,06854,(203) 838-8809,41.0919077,-73.4170446,"42 Woodward Ave, Norwalk, CT 06854, USA",ROOFTOP,Other,000000
-Superior Supermarket,2,"42 Woodridge Dr S # Sn Stamford,",CT,06902,(203) 838-8809,,,,,Other,000000
+Superior Supermarket,2,"42 Woodridge Dr S # Sn Stamford,",CT,06902,(203) 838-8809,0.0,0.0,,,Other,000000
 Superior Supermarket,3,"2139 N Church St Burlington,",NC,27217,(336) 222-1111,36.0928204,-79.40084089999999,"2139 N Church St, Burlington, NC 27217, USA",ROOFTOP,Other,000000
 Superior Supermarket,4,"1216 W Front St Plainfield,",NJ,07063,(908) 769-8333,40.6031061,-74.4460366,"1216 W Front St, Plainfield, NJ 07063, USA",ROOFTOP,Other,000000
 Superior Supermarket,5,"1694 Boston Rd Bronx,",NY,10460,(718) 328-1073,40.8366609,-73.88851790000001,"1694 Boston Rd, The Bronx, NY 10460, USA",RANGE_INTERPOLATED,Other,000000
@@ -18692,7 +18692,7 @@ Thriftway,2,"515 E Nelson Ave Defuniak Springs,",FL,32433,(850) 892-2932,30.7215
 Thriftway,3,"30 E Washington St Newnan,",GA,30263,(770) 253-2400,33.3753513,-84.79718500000001,"30 E Washington St, Newnan, GA 30263, USA",ROOFTOP,Other,000000
 Thriftway,4,"300 4th St La Porte City,",IA,50651,(319) 342-2754,42.3166008,-92.1900571,"300 4th St, La Porte City, IA 50651, USA",ROOFTOP,Other,000000
 Thriftway,5,"2440 Hwy Tonganoxie,",KS,66086,(913) 845-2949,39.109724,-95.0877465,"Tonganoxie, KS 66086, USA",APPROXIMATE,Other,000000
-Thriftway,6,"324 N Main St # 620 Eureka,",KS,67045,(620) 583-6118,,,,,Other,000000
+Thriftway,6,"324 N Main St # 620 Eureka,",KS,67045,(620) 583-6118,0.0,0.0,,,Other,000000
 Thriftway,7,"111 Bridgton Rd Fryeburg,",ME,04037,(207) 935-4922,44.0194809,-70.9644046,"111 Bridgton Rd, Fryeburg, ME 04037, USA",ROOFTOP,Other,000000
 Thriftway,8,"15 Bridgton Rd Fryeburg,",ME,04037,(207) 935-4922,44.0198493,-70.962713,"15 Bridgton Rd, Fryeburg, ME 04037, USA",RANGE_INTERPOLATED,Other,000000
 Thriftway,9,"5715 W Broadway Ave Minneapolis,",MN,55428,(763) 533-3733,45.0567893,-93.3691376,"5715 W Broadway Ave, Crystal, MN 55428, USA",ROOFTOP,Other,000000
@@ -18716,7 +18716,7 @@ Times Super Market,3,"47-388 Hui Iwa St Kaneohe,",HI,96744,(808) 239-8827,21.436
 Times Super Market,4,"94-766 Farrington Hwy Waipahu,",HI,96797,(808) 677-1513,21.3843983,-158.0057388,"94-766 Farrington Hwy, Waipahu, HI 96797, USA",ROOFTOP,Other,000000
 Times Super Market,5,"Koolau Ctr Honolulu,",HI,96801,(808) 239-3204,21.3079573,-157.8528568,"1380 Lusitana St, Honolulu, HI 96813, USA",ROOFTOP,Other,000000
 Times Super Market,6,"981264 Kaahumanu Honolulu,",HI,96801,(808) 483-3060,21.3900342,-157.9543148,"981264 Kaahumanu St, Pearl City, HI 96782, USA",RANGE_INTERPOLATED,Other,000000
-Times Super Market,7,"Waimalu Store Honolulu,",HI,96801,(808) 483-3078,,,,,Other,000000
+Times Super Market,7,"Waimalu Store Honolulu,",HI,96801,(808) 483-3078,0.0,0.0,,,Other,000000
 Times Super Market,8,"98 Kaahumanu 1264 Honolulu,",HI,96801,(808) 483-3666,21.3897577,-157.9542343,"98-1264 Kaahumanu St, Pearl City, HI 96782, USA",ROOFTOP,Other,000000
 Times Super Market,9,"Beretania Store Honolulu,",HI,96801,(808) 522-5071,21.30093,-157.8414284,"S Beretania St, Honolulu, HI, USA",GEOMETRIC_CENTER,Other,000000
 Times Super Market,10,"Royal Kunia Store Honolulu,",HI,96801,(808) 677-5999,21.406105,-158.023457,"94-1509 Anonui St, Waipahu, HI 96797, USA",ROOFTOP,Other,000000
@@ -18808,7 +18808,7 @@ Town & Country,15,"104 W State Highway 162 Clarkton,",MO,63837,(573) 448-5363,36
 Town & Country,16,"523 E Washington St East Prairie,",MO,63845,(573) 649-2204,36.7763293,-89.37831109999999,"523 E Washington St, East Prairie, MO 63845, USA",ROOFTOP,Other,000000
 Town & Country,17,"1104 N Douglass St Malden,",MO,63863,(573) 276-5121,36.5716729,-89.9694614,"1104 N Douglass St, Malden, MO 63863, USA",ROOFTOP,Other,000000
 Town & Country,18,"Hwy 25 N Malden,",MO,63863,(573) 276-5121,36.556784,-89.95578359999999,"MO-25, Malden, MO, USA",GEOMETRIC_CENTER,Other,000000
-Town & Country,19,"103 W Jefferson St # 320 Doniphan,",MO,63935,(573) 996-2814,,,,,Other,000000
+Town & Country,19,"103 W Jefferson St # 320 Doniphan,",MO,63935,(573) 996-2814,0.0,0.0,,,Other,000000
 Town & Country,20,"Hc 5 Doniphan,",MO,63935,(573) 996-2814,36.6219594,-90.83444329999999,"H C 5 Box 320, US-160, Doniphan, MO 63935, USA",GEOMETRIC_CENTER,Other,000000
 Town & Country,21,"7 Halls Plz Piedmont,",MO,63957,(573) 223-4711,37.1544946,-90.6956749,"Piedmont, MO 63957, USA",APPROXIMATE,Other,000000
 Town & Country,22,"508 E 5th St Dixon,",MO,65459,(573) 759-6212,37.9977611,-92.08535780000001,"508 E 5th St, Dixon, MO 65459, USA",ROOFTOP,Other,000000
@@ -18978,7 +18978,7 @@ Turkey Hill Mini Market,80,"806 New Holland Ave Lancaster,",PA,17602,(717) 299-3
 Turkey Hill Mini Market,81,"1612 Lincoln Hwy E Lancaster,",PA,17602,(717) 392-4002,40.03714129999999,-76.2710154,"1612 Lincoln Hwy E, Lancaster, PA 17602, USA",ROOFTOP,Other,000000
 Turkey Hill Mini Market,82,"2453 Old Philadelphia Pike Lancaster,",PA,17602,(717) 392-7533,40.0397739,-76.2045976,"2453 Old Philadelphia Pike, Lancaster, PA 17602, USA",ROOFTOP,Other,000000
 Turkey Hill Mini Market,83,"102 Duncan St Lancaster,",PA,17602,(717) 393-6590,40.023205,-76.265765,"102 Duncan St, Lancaster, PA 17602, USA",ROOFTOP,Other,000000
-Turkey Hill Mini Market,84,"701 N Plum St # 705 Lancaster,",PA,17602,(717) 394-3905,,,,,Other,000000
+Turkey Hill Mini Market,84,"701 N Plum St # 705 Lancaster,",PA,17602,(717) 394-3905,0.0,0.0,,,Other,000000
 Turkey Hill Mini Market,85,"460 S Duke St Lancaster,",PA,17602,(717) 397-2186,40.0335322,-76.3010372,"460 S Duke St, Lancaster, PA 17602, USA",GEOMETRIC_CENTER,Other,000000
 Turkey Hill Mini Market,86,"4 W Clay St Lancaster,",PA,17603,(717) 299-5129,40.0498872,-76.308054,"4 W Clay St, Lancaster, PA 17603, USA",RANGE_INTERPOLATED,Other,000000
 Turkey Hill Mini Market,87,"870 Manor St Lancaster,",PA,17603,(717) 392-2869,40.0304407,-76.3210103,"870 Manor St, Lancaster, PA 17603, USA",ROOFTOP,Other,000000
@@ -19083,7 +19083,7 @@ Twin City Foods,1,"101 B St Lewiston,",ID,83501,(208) 743-5636,46.4004089,-117.0
 Twin City Foods,2,"1315 Sherman St Lake Odessa,",MI,48849,(616) 374-8837,42.785112,-85.1414554,"1315 Sherman St, Lake Odessa, MI 48849, USA",RANGE_INTERPOLATED,Other,000000
 Twin City Foods,3,"67801 Balk Rd Sturgis,",MI,49091,(618) 337-7882,41.813784,-85.46476419999999,"67801 Balk Rd, Sturgis, MI 49091, USA",ROOFTOP,Other,000000
 Twin City Foods,4,"67733 Klinger Lake Rd Sturgis,",MI,49091,(618) 343-0538,41.8139577,-85.5348892,"67733 Klinger Lake Rd, Sturgis, MI 49091, USA",ROOFTOP,Other,000000
-Twin City Foods,5,"PO Box 701 Sturgis,",MI,49091,(502) 875-0127,,,,,Other,000000
+Twin City Foods,5,"PO Box 701 Sturgis,",MI,49091,(502) 875-0127,0.0,0.0,,,Other,000000
 Twin City Foods,6,"600 Park Ave Ste 1 Plainfield,",NJ,07060,(908) 769-9700,40.6150624,-74.41876189999999,"600 Park Ave #1, Plainfield, NJ 07060, USA",ROOFTOP,Other,000000
 Twin City Foods,7,"146 Smith St South Plainfield,",NJ,07080,(908) 754-6505,40.5685316,-74.4136546,"146 Smith St, South Plainfield, NJ 07080, USA",ROOFTOP,Other,000000
 Twin City Foods,8,"611 Broadway Newark,",NJ,07104,(973) 481-9468,40.7711315,-74.1617048,"611 Broadway, Newark, NJ 07104, USA",ROOFTOP,Other,000000
@@ -19806,7 +19806,7 @@ Wal-Mart Supercenter,296,"1155 Camino Del Rio Durango,",CO,81301,(970) 375-9084,
 Wal-Mart Supercenter,297,"PO Box 8 Durango,",CO,81302,(970) 375-9084,37.2719286,-107.8794976,"Durango, CO 81302, USA",APPROXIMATE,Big,000000
 Wal-Mart Supercenter,298,"1155 S Camino Del Rio Durango,",CO,81303,(970) 382-0696,37.2299984,-107.8656151,"1155 S Camino Del Rio, Durango, CO 81301, USA",ROOFTOP,Big,000000
 Wal-Mart Supercenter,299,"1020 S Chestnut St Cortez,",CO,81321,(970) 564-0424,37.3379954,-108.5854862,"1020 S Chestnut St, Cortez, CO 81321, USA",ROOFTOP,Big,000000
-Wal-Mart Supercenter,300,"23 Road G # 59 Cortez,",CO,81321,(970) 564-0866,,,,,Big,000000
+Wal-Mart Supercenter,300,"23 Road G # 59 Cortez,",CO,81321,(970) 564-0866,0.0,0.0,,,Big,000000
 Wal-Mart Supercenter,301,"1835 E Main St Cortez,",CO,81321,(970) 564-8515,37.3462036,-108.5620859,"1835 E Main St, Cortez, CO 81321, USA",ROOFTOP,Big,000000
 Wal-Mart Supercenter,302,"37 Stafford Ln Delta,",CO,81416,(970) 874-9033,38.7491849,-108.0541234,"37 Stafford Ln, Delta, CO 81416, USA",ROOFTOP,Big,000000
 Wal-Mart Supercenter,303,"2881 North Ave Grand Junction,",CO,81501,(970) 241-6061,39.0761334,-108.5188608,"2881 North Ave, Grand Junction, CO 81501, USA",GEOMETRIC_CENTER,Big,000000
@@ -20801,7 +20801,7 @@ Wal-Mart Supercenter,1291,"202 Park Plaza Dr New Albany,",MS,38652,(662) 534-472
 Wal-Mart Supercenter,1292,"2530 Jackson Ave W Oxford,",MS,38655,(662) 234-9131,34.3601023,-89.5645014,"2530 Jackson Ave W, Oxford, MS 38655, USA",GEOMETRIC_CENTER,Big,000000
 Wal-Mart Supercenter,1293,"2429 N Sarullo Cir Greenville,",MS,38703,(662) 332-4732,33.3966561,-91.017893,"2429 N Sarullo Cir, Greenville, MS 38703, USA",ROOFTOP,Big,000000
 Wal-Mart Supercenter,1294,"1831 Highway 1 N Greenville,",MS,38703,(662) 332-9026,33.36774,-91.04395099999999,"1831 MS-1, Greenville, MS 38701, USA",ROOFTOP,Big,000000
-Wal-Mart Supercenter,1295,"220 Hwy 82 W Cleveland,",MS,38732,(662) 453-1484,,,,,Big,000000
+Wal-Mart Supercenter,1295,"220 Hwy 82 W Cleveland,",MS,38732,(662) 453-1484,0.0,0.0,,,Big,000000
 Wal-Mart Supercenter,1296,"Holly Ridge,",MS,38749,(800) 925-6278,33.45,-90.75,"Indianola, MS 38749, USA",APPROXIMATE,Big,000000
 Wal-Mart Supercenter,1297,"633 Highway 82 W Indianola,",MS,38751,(662) 887-3320,33.4595665,-90.6634954,"633 Highway 82 W, Indianola, MS 38751, USA",GEOMETRIC_CENTER,Big,000000
 Wal-Mart Supercenter,1298,"123 Barnes St Indianola,",MS,38751,(800) 925-6278,33.4331615,-90.652721,"123 Barnes St, Indianola, MS 38751, USA",ROOFTOP,Big,000000
@@ -22014,7 +22014,7 @@ Wal-Mart Supercenter,2504,"250 West Richmond Way New Richmond,",WI,54017,(715) 2
 Wal-Mart Supercenter,2505,"250 Richmond Way New Richmond,",WI,54017,(715) 246-9814,45.0996801,-92.539129,"250 Richmond Way, New Richmond, WI 54017, USA",GEOMETRIC_CENTER,Big,000000
 Wal-Mart Supercenter,2506,"295 Tyler Rd S Red Wing River Falls,",WI,54022,(651) 385-0003,44.5632209,-92.5821304,"295 Tyler Rd S, Red Wing, MN 55066, USA",ROOFTOP,Big,000000
 Wal-Mart Supercenter,2507,"2212 Glacier Dr Saint Croix Falls,",WI,54024,(715) 483-1399,45.399927,-92.6033767,"2212 Glacier Dr, St Croix Falls, WI 54024, USA",ROOFTOP,Big,000000
-Wal-Mart Supercenter,2508,"1244 E Green Bay St Shawano,",WI,54166,(715) 524-5002,,,,,Big,000000
+Wal-Mart Supercenter,2508,"1244 E Green Bay St Shawano,",WI,54166,(715) 524-5002,0.0,0.0,,,Big,000000
 Wal-Mart Supercenter,2509,"4115 Calumet Ave Manitowoc,",WI,54220,(920) 684-4214,44.0761549,-87.69663,"4115 Calumet Ave, Manitowoc, WI 54220, USA",ROOFTOP,Big,000000
 Wal-Mart Supercenter,2510,"4300 Rib Mountain Dr Wausau,",WI,54401,(715) 359-2282,44.9186841,-89.6536811,"4300 Rib Mountain Dr, Wausau, WI 54401, USA",ROOFTOP,Big,000000
 Wal-Mart Supercenter,2511,"200 E State Highway 64 Antigo,",WI,54409,(715) 627-1382,45.16349659999999,-89.14270309999999,"200 WI-64, Antigo, WI 54409, USA",ROOFTOP,Big,000000
@@ -22186,7 +22186,7 @@ Wawa Food Markets,15,"4000 N Dupont Hwy New Castle,",DE,19720,(781) 237-9680,39.
 Wawa Food Markets,16,"882 S Dupont Hwy New Castle,",DE,19720,(800) 289-3595,39.6206124,-75.6411296,"882 S Dupont Hwy, New Castle, DE 19720, USA",ROOFTOP,Big,000000
 Wawa Food Markets,17,"Route 202 And Naamans Rd Wilmington,",DE,19801,(337) 478-9199,39.8287284,-75.5441905,"US-202 & Naamans Rd, Delaware 19803, USA",GEOMETRIC_CENTER,Big,000000
 Wawa Food Markets,18,"Philadelphia Pike Pkwy Ave Wilmington,",DE,19801,(800) 242-1227,39.77076210000001,-75.500126,"Philadelphia Pike & Parkway Ave, Delaware 19809, USA",GEOMETRIC_CENTER,Big,000000
-Wawa Food Markets,19,"400 Wilson Rd # A Wilmington,",DE,19803,(847) 455-0633,,,,,Big,000000
+Wawa Food Markets,19,"400 Wilson Rd # A Wilmington,",DE,19803,(847) 455-0633,0.0,0.0,,,Big,000000
 Wawa Food Markets,20,"915 New Rd Wilmington,",DE,19805,(800) 925-6278,39.7399287,-75.5983935,"915 New Rd, Wilmington, DE 19805, USA",ROOFTOP,Big,000000
 Wawa Food Markets,21,"605 Hercules Rd Wilmington,",DE,19808,(770) 918-2500,39.7555903,-75.64638409999999,"605 Hercules Rd, Wilmington, DE 19808, USA",RANGE_INTERPOLATED,Big,000000
 Wawa Food Markets,22,"4555 New Linden Hill Rd Wilmington,",DE,19808,(770) 971-8801,39.7352988,-75.69129219999999,"4555 New Linden Hill Rd, Wilmington, DE 19808, USA",ROOFTOP,Big,000000
@@ -22358,7 +22358,7 @@ Wawa Food Markets,187,"1426 Texas Ave Cape May,",NJ,08204,(609) 884-6753,38.9468
 Wawa Food Markets,188,"3719 Bayshore Rd Cape May,",NJ,08204,(609) 886-0004,38.9829368,-74.9415092,"3719 Bayshore Rd, Cape May, NJ 08204, USA",ROOFTOP,Big,000000
 Wawa Food Markets,189,"Rr 9 Absecon,",NJ,08205,(609) 652-4036,39.4284503,-74.4957076,"Absecon, NJ 08201, USA",APPROXIMATE,Big,000000
 Wawa Food Markets,190,"Us Hwy No 9 Indian Trl Cape May Court House,",NJ,08210,(609) 324-1246,39.0627627,-74.8711928,"Indian Trail Rd, Middle Township, NJ 08210, USA",GEOMETRIC_CENTER,Big,000000
-Wawa Food Markets,191,"U S Hwy No 9 Atlantic Ave Cape May Court House,",NJ,08210,(908) 322-6410,,,,,Big,000000
+Wawa Food Markets,191,"U S Hwy No 9 Atlantic Ave Cape May Court House,",NJ,08210,(908) 322-6410,0.0,0.0,,,Big,000000
 Wawa Food Markets,192,"2500 U S Hwy No 9 Dennisville,",NJ,08214,(609) 624-7970,40.3975889,-74.3086129,"2500 U.S. 9 #9, Old Bridge, NJ 08857, USA",ROOFTOP,Big,000000
 Wawa Food Markets,193,"State Hwy No 47 Main Dennisville,",NJ,08214,(732) 223-1930,39.6546658,-75.09058759999999,"47 NJ-47, Clayton, NJ 08312, USA",RANGE_INTERPOLATED,Big,000000
 Wawa Food Markets,194,"English Creek Avenue And Bla Pike Egg Harbor City,",NJ,08215,(609) 645-5102,39.4310733,-74.6082741,"3008 English Creek Ave, Egg Harbor Township, NJ 08234, USA",ROOFTOP,Big,000000
@@ -22378,7 +22378,7 @@ Wawa Food Markets,207,"100 Shore Rd Apt A7 Somers Point,",NJ,08244,(609) 653-615
 Wawa Food Markets,208,"Ocean Heights Avenue And New Rd Somers Point,",NJ,08244,(609) 653-8922,39.3318043,-74.5919162,"W Ocean Heights Ave & New Rd, Linwood, NJ 08244, USA",GEOMETRIC_CENTER,Big,000000
 Wawa Food Markets,209,"3rd And 94th Ave Stone Harbor,",NJ,08247,(609) 368-3265,39.0558102,-74.7596049,"94th St & 3rd Ave, Stone Harbor, NJ 08247, USA",GEOMETRIC_CENTER,Big,000000
 Wawa Food Markets,210,"1515 Bayshore Rd Villas,",NJ,08251,(609) 889-8975,39.0230265,-74.9342703,"1515 Bayshore Rd, Villas, NJ 08251, USA",ROOFTOP,Big,000000
-Wawa Food Markets,211,"404 E 4th Ave # 3 Wildwood,",NJ,08260,(609) 522-2403,,,,,Big,000000
+Wawa Food Markets,211,"404 E 4th Ave # 3 Wildwood,",NJ,08260,(609) 522-2403,0.0,0.0,,,Big,000000
 Wawa Food Markets,212,"4th And New Jersey Ave Wildwood,",NJ,08260,(609) 522-2403,39.00611,-74.79583099999999,"New Jersey Ave at 4th Ave, North Wildwood, NJ 08260, USA",GEOMETRIC_CENTER,Big,000000
 Wawa Food Markets,213,"N Station Avenue And Pacific Ave Wildwood,",NJ,08260,(609) 522-7588,38.9598809,-74.8542251,"Pacific Ave & N Station Ave, Lower Township, NJ 08260, USA",GEOMETRIC_CENTER,Big,000000
 Wawa Food Markets,214,"410 W Rio Grande Ave Wildwood,",NJ,08260,(609) 729-6339,38.9872306,-74.829121,"410 W Rio Grande Ave, Wildwood, NJ 08260, USA",ROOFTOP,Big,000000
@@ -22586,7 +22586,7 @@ Wawa Food Markets,415,"7715 Frankford Ave Philadelphia,",PA,19136,(269) 279-1212
 Wawa Food Markets,416,"4371 Richmond St Philadelphia,",PA,19137,(256) 851-5813,39.996525,-75.0744153,"4371 Richmond St, Philadelphia, PA 19137, USA",ROOFTOP,Big,000000
 Wawa Food Markets,417,"518 S 2nd St Philadelphia,",PA,19147,(301) 568-0330,39.9418793,-75.145763,"518 S 2nd St, Philadelphia, PA 19147, USA",ROOFTOP,Big,000000
 Wawa Food Markets,418,"1602 S Columbus Blvd Ste 04 Philadelphia,",PA,19148,(304) 296-7146,39.9264734,-75.14537240000001,"1602 S Christopher Columbus Blvd #04, Philadelphia, PA 19148, USA",ROOFTOP,Big,000000
-Wawa Food Markets,419,"2847 Tyson Ave # 49 Philadelphia,",PA,19149,(269) 544-0718,,,,,Big,000000
+Wawa Food Markets,419,"2847 Tyson Ave # 49 Philadelphia,",PA,19149,(269) 544-0718,0.0,0.0,,,Big,000000
 Wawa Food Markets,420,"6935 Castor Ave Philadelphia,",PA,19149,(270) 443-8806,40.0463524,-75.07021759999999,"6935 Castor Ave, Philadelphia, PA 19149, USA",ROOFTOP,Big,000000
 Wawa Food Markets,421,"6460 Bustleton Ave Philadelphia,",PA,19149,(301) 345-0150,40.0364844,-75.0699229,"6460 Bustleton Ave, Philadelphia, PA 19149, USA",ROOFTOP,Big,000000
 Wawa Food Markets,422,"8000 Roosevelt Blvd Philadelphia,",PA,19152,(262) 740-1815,40.0572052,-75.0471055,"8000 Roosevelt Blvd, Philadelphia, PA 19152, USA",ROOFTOP,Big,000000
@@ -22657,7 +22657,7 @@ Wawa Food Markets,486,"10626 30 Court House Rd Fredericksburg,",VA,22401,(540) 8
 Wawa Food Markets,487,"2390 Plank Rd Fredericksburg,",VA,22401,(540) 899-2043,38.2955637,-77.500085,"2390 Plank Rd, Fredericksburg, VA 22401, USA",ROOFTOP,Big,000000
 Wawa Food Markets,488,"275 Butler Rd Fredericksburg,",VA,22405,(540) 899-2796,38.3162964,-77.4503423,"275 Butler Rd, Fredericksburg, VA 22405, USA",ROOFTOP,Big,000000
 Wawa Food Markets,489,"830 Warrenton Rd Fredericksburg,",VA,22406,(540) 373-0571,38.355531,-77.510314,"830 Warrenton Rd, Fredericksburg, VA 22406, USA",ROOFTOP,Big,000000
-Wawa Food Markets,490,"10626 Courthouse Rd # 30 Fredericksburg,",VA,22407,(540) 898-4278,,,,,Big,000000
+Wawa Food Markets,490,"10626 Courthouse Rd # 30 Fredericksburg,",VA,22407,(540) 898-4278,0.0,0.0,,,Big,000000
 Wawa Food Markets,491,"3402 Shannon Park Dr Fredericksburg,",VA,22408,(540) 368-3924,38.2713747,-77.4477936,"3402 Shannon Park Dr, Fredericksburg, VA 22408, USA",ROOFTOP,Big,000000
 Wawa Food Markets,492,"199 Falcon Dr Fredericksburg,",VA,22408,(540) 834-2025,38.2496658,-77.4933186,"199 Falcon Dr, Fredericksburg, VA 22408, USA",ROOFTOP,Big,000000
 Wawa Food Markets,493,"4625 Harrison Rd Fredericksburg,",VA,22408,(540) 898-3701,38.26440040000001,-77.4944281,"4625 Harrison Rd, Fredericksburg, VA 22408, USA",ROOFTOP,Big,000000
@@ -22840,7 +22840,7 @@ Weis Markets,33,"Rr 2 Mifflintown,",PA,17059,(717) 436-8858,40.5697996,-77.39693
 Weis Markets,34,"1571 State Route 209 Millersburg,",PA,17061,(717) 692-2019,40.5407047,-76.9238089,"1571 US-209, Millersburg, PA 17061, USA",ROOFTOP,Other,000000
 Weis Markets,35,"5125 Jonestown Rd Ste 371 Harrisburg,",PA,17112,(717) 412-2051,40.3092482,-76.7985566,"5125 Jonestown Rd #371, Harrisburg, PA 17112, USA",ROOFTOP,Other,000000
 Weis Markets,36,"1056 Wayne Ave Chambersburg,",PA,17201,(717) 261-5757,39.9108408,-77.6530755,"1056 Wayne Ave, Chambersburg, PA 17201, USA",ROOFTOP,Other,000000
-Weis Markets,37,"PO Box 471 Chambersburg,",PA,17201,(978) 838-2900,,,,,Other,000000
+Weis Markets,37,"PO Box 471 Chambersburg,",PA,17201,(978) 838-2900,0.0,0.0,,,Other,000000
 Weis Markets,38,"1075 W King St Shippensburg,",PA,17257,(717) 532-2161,40.03839019999999,-77.5438497,"1075 W King St, Shippensburg, PA 17257, USA",ROOFTOP,Other,000000
 Weis Markets,39,"2850 Carlisle Rd Dover,",PA,17315,(717) 767-5152,39.9812769,-76.8146101,"2850 Carlisle Rd, Dover, PA 17315, USA",ROOFTOP,Other,000000
 Weis Markets,40,"Queensgate Shop Ctr Dover,",PA,17315,(717) 848-2257,39.9406289,-76.6924569,"2001-2099 S Queen St, York, PA 17403, USA",ROOFTOP,Other,000000
@@ -23492,7 +23492,7 @@ Winn Dixie,435,"6851 Se Maricamp Rd Ocala,",FL,34472,(352) 687-4406,29.1291996,-
 Winn Dixie,436,"184 Marion Oaks Blvd Ocala,",FL,34473,(352) 347-6990,29.014333,-82.1796059,"184 Marion Oaks Blvd, Ocala, FL 34473, USA",ROOFTOP,Big,000000
 Winn Dixie,437,"3435 Sw College Rd Ocala,",FL,34474,(352) 854-2464,29.15507299999999,-82.1809229,"3435 SW College Rd, Ocala, FL 34474, USA",ROOFTOP,Big,000000
 Winn Dixie,438,"3435 Nw Pine Ave Ocala,",FL,34475,(352) 368-2096,29.22223,-82.14502279999999,"3435 N Pine Ave, Ocala, FL 34475, USA",ROOFTOP,Big,000000
-Winn Dixie,439,"8445 Sw Highway 200 Ste #131 Ocala,",FL,34481,(352) 854-1122,,,,,Big,000000
+Winn Dixie,439,"8445 Sw Highway 200 Ste #131 Ocala,",FL,34481,(352) 854-1122,0.0,0.0,,,Big,000000
 Winn Dixie,440,"4417 Nw Blitchton Rd Ocala,",FL,34482,(352) 401-7667,29.212978,-82.19494399999999,"4417 NW Blitchton Rd, Ocala, FL 34482, USA",ROOFTOP,Big,000000
 Winn Dixie,441,"Summerfield,",FL,34491,(806) 357-2271,29.0075671,-82.0204688,"Summerfield, FL 34491, USA",APPROXIMATE,Big,000000
 Winn Dixie,442,"1230 S Broad St Brooksville,",FL,34601,(352) 799-2220,28.5418869,-82.40458819999999,"1230 S Broad St, Brooksville, FL 34601, USA",ROOFTOP,Big,000000
